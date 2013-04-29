@@ -93,7 +93,7 @@ font-family: 'Special Elite', cursive;
 	position: relative;
 	letter-spacing: .2;
 	font-family: $anyFontFamily;
-	font-size: 1.1em;
+	font-size: 16px;
 	font-weight: normal;
 	line-height:1.7;
 	color: #292929;
@@ -229,9 +229,12 @@ body{
 	@include contentFormatting;
 	.disc{
 		margin-left: 25px;
+
 	}
 
-	
+	ol{
+		margin-left: 25px;
+	}
 }
 /*==========  vw-Debt_Relief_Act_2007 starts here  ==========*/
 
