@@ -1,0 +1,393 @@
+/* Welcome to Compass.
+* In this file you should write your main styles. (or centralize your imports)
+* Import this file using the following HTML or equivalent:
+* <link href="comp/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass";
+@import "app";
+@charset "utf-8";
+
+@import "foundation/foundation-global", "foundation/components/global", "foundation/components/buttons", "foundation/components/inline-lists";
+//LOCATION: april 
+
+
+/* cssreset.com */
+* {
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: inherit;
+	/* [disabled]font-style: inherit; */
+	font-size: 100%;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+	border-top: none #333;
+	border-right: none #333;
+	border-bottom: none #333;
+	border-left: none #333;
+}
+
+/*==========  Variables  ==========*/
+$siteWigth:960px;
+$leftColumnWidth:240px;
+$colorBody:#D5E0EA;
+$colorWrapper:#A1BAD0;
+$companyNameColor: #0055A5;
+$primary-color: #396c95;
+$bg:lighten(#396c95, 10%);
+/*==========  Functions  ==========*/
+
+@function contentColumnWidth($siteWigth, $leftColumnWidth) {
+	@return  $siteWigth-$leftColumnWidth;
+}
+/*==========  Mixins  ==========*/
+
+
+@mixin companyNameStyle ($anyColor){
+font-family: 'Special Elite', cursive;
+	float: left;
+	width: 268px;
+	font-size: 44px;
+	color: $anyColor;
+	font-weight: bold;
+	text-align: right;
+	padding-right: 18px;
+	padding-top: 10px;
+	margin-left: 12px;
+	line-height: 1.2em;
+	text-shadow: #FFF 1px 1px 0px;
+}
+
+@mixin firstLevelButton($anyColor){
+	@include button($full-width:true);
+	@include radius;
+	@include single-transition;
+	@include inset-shadow;
+	@include button-style($anyColor);
+	padding-left: 3px;
+	margin-bottom: 5px;
+	text-align:left;
+}
+
+@mixin secondLevelButton($anyColor){
+	@include button($button-sml, $full-width:true);
+	@include radius;
+	@include single-transition;
+	@include inset-shadow;
+	@include button-style($anyColor);
+	margin-bottom: 3px;
+	text-align:left;
+	padding-left: 10px;
+	font-size: 14px;
+}
+
+/*=outerWharrer starts here*/
+
+body{
+	color: #333;
+	background-color: $colorBody;
+	font: 14px  "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#outerWrapper {
+	@include box-sizing(content-box);
+	margin: 0px auto;
+	width: $siteWigth;
+	background-color: $colorWrapper;
+	margin-bottom: -51px;
+}
+
+/*=header starts here*/
+#header {
+	overflow: auto;
+	position: relative;
+}
+#headerContent{
+	overflow: auto;
+	width: contentColumnWidth;
+	float: left;
+}
+#headerLogoContent{
+	width: $leftColumnWidth;
+	float: left;
+	position: relative;
+	display: block;
+}
+#headerContentTop{
+	overflow: auto;
+}
+#headerContentBottom{
+	overflow: auto;
+	width:100%;
+	.icon{
+		width:24px;
+		float:right;
+		margin-left:10px;
+	}
+}
+
+
+#headerHomeImg {
+	float: left;
+	width: 24px;
+	padding-top: 5px;
+}
+#headerLetterImg {
+	@extend #headerHomeImg;
+
+	vertical-align: bottom;
+	display: block;
+	
+	padding-right: 2px;
+	padding-left: 10px;
+}
+
+#headerPhoneNumber {
+	float: left;
+	width: 575px;
+	color: $companyNameColor;
+	margin-left: 15px;
+	font: bold normal 28px "MS Serif", "New York", serif;
+	letter-spacing: 2px;
+}
+
+
+
+#companyName{
+	@include companyNameStyle ($companyNameColor);
+}
+#headerPicture{
+	float: left;
+	width: 437px;
+	box-shadow: black 1px 1px 0px;
+}
+#headerPicture a img{
+	/* [disabled]border: 1px solid #0055A5; */
+}
+#headerContentBottom{
+	overflow:auto;
+}
+
+#headerPhoneImg {
+	float: left;
+	width: 24px;
+	padding-left: 40px;
+	display: block;
+	padding-top: 5px;
+}
+
+@import "icon/*.png";
+@include all-icon-sprites;
+
+.icon-phone {
+	float: left;
+	background: image-url('icon-sf7affd0925.png');
+	margin-top: 4px;
+
+	width: 24px;
+	height: 24px;
+
+
+}
+/*=contentWrapper starts here*/
+#contentWrapper {
+	width: 100%;
+	overflow: auto;
+	position: relative;
+	top: -55px;
+}
+/*=sideBar starts here*/
+#sideBar {
+	float: left;
+	width: 200px;
+	position: relative;
+	padding-top: 62px;
+}
+/*=content starts here*/
+#content {
+	float: left;
+	width: 755px;
+	background-color: #FFFFFF;
+	border-top-left-radius: 70px;
+	moz-border-top-left-radius: 70px;
+	webkit-border-top-left-radius: 70px;
+	padding: 30px 20px 20px 25px;
+	position: relative;
+	letter-spacing: normal;
+	font-family: 'Sanchez', serif;
+	font-weight: normal;
+	color: #292929;
+	
+}
+
+
+#shortSaleRealtors h1{
+	padding-bottom: 15px;
+	font-size: 28px;
+	font-weight: bold;
+}
+#shortSaleRealtors{
+	line-height: 1.7em;
+	text-align: justify;
+}
+#shortSaleNews h1{
+	padding-bottom: 10px;
+	padding-top: 10px;
+	color: #333;
+	font-size: 28px;
+	font-weight: bolder;
+}
+#shortSaleNews h2{
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 2em;
+}
+
+#shortSaleNews img {
+	display: block;
+	margin: 20px auto;
+}
+
+
+// #usBanks{
+// 	background-image:
+// }
+#areasServed {
+	font-size: 12px;
+	line-height: 2em;
+	text-align: justify;
+	@include panel(lighten(#D5E0EA, 5%) )
+}
+
+/*=footer starts here*/
+#footer {
+	width: 100%;
+	background-color: #D5E0EA;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+#footerContent{
+	width: 960px;
+	margin: 0em auto 0px;
+	padding: 10px 20px;
+	overflow: auto;
+	background-color: #D5E0EA;
+	border: 4px solid #A1BAD0;
+}
+#footerContentTop{
+	width: 100%;
+	overflow: auto;
+	padding-bottom: 10px;
+}
+#footerContentBottom{
+	width: 100%;
+	overflow: auto;
+	padding-top: 10px;
+	border-top: 1px solid#A1BAD0;
+}
+
+#connectWithUs {
+	float: left;
+	width: 180px;
+}
+#footerAddress {
+	text-align: center;
+	width: 150px;
+	line-height: normal;
+	font-weight: bold;
+	font-size: 1.1em;
+	float: right;
+	color: #304961;
+	padding-top: 5px;
+}
+#footerPhoneNumbers {
+	text-align: center;
+	width: 180px;
+	line-height: normal;
+	font-weight: bold;
+	font-size: 1.1em;
+	float: left;
+	margin-left: 300px;
+	color: #304961;
+	padding-top: 5px;
+}
+#footerLogo{
+	float:left;
+	width:150px;
+}
+#footerCompanyName {
+	float: left;
+	width: 250px;
+	padding-left: 20px;
+	font: 24px 'Special Elite', cursive;
+	padding-top: 10px;
+	color: #0055A5;
+	text-shadow: #FFF 1px 1px 0px;
+}
+#footerRights{
+	float: right;
+	width: 180px;
+	padding-top: 10px;
+	padding-left: 10px;
+	text-align: right;
+	font: italic bold 14px "Times New Roman", Times, serif;
+	color: #304961;
+}
+
+
+/*=sideBar*/
+
+
+
+#sideBar{
+	width:200px;
+	float: left;
+	position: relative;
+	margin-top: 62px;
+	padding: 5px;
+}
+.firstLevel {
+	@include firstLevelButton($primary-color);
+}
+
+.secondLevel {
+	@include secondLevelButton($bg);
+}
+
+/*=contact-us-starts-here*/
+$main-font-size:  1em;
+
+.contactUsContent{
+	float: left;
+	width: 755px;
+	background-color: #FFFFFF;
+	border-top-left-radius: 70px;
+	moz-border-top-left-radius: 70px;
+	webkit-border-top-left-radius: 70px;
+	padding: 40px 20px 100px 25px;
+	position: relative;
+	font-family: 'Sanchez', serif;
+	color: #292929;
+
+	textarea{
+		height: 300px;
+		font-size:$main-font-size;
+	}
+	#submit {
+		font-size:$main-font-size;
+		margin-left: 14px;
+	}
+	input{
+		margin-bottom: 20px;
+	}
+	label{
+		font-size: $main-font-size;
+	}
+	fieldset{
+		font-size: 16px;
+	}
+	
+
+}
+
+

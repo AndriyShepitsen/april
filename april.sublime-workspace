@@ -1,0 +1,1207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"second",
+				"secondLevelButton"
+			],
+			[
+				"mi",
+				"mix	@mixin"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"an",
+				"anchor	CI - Anchor Helper"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"form",
+				"form_close	CI - Form Helper - Close"
+			],
+			[
+				"run",
+				"run_macro_file"
+			],
+			[
+				"get_",
+				"get_id"
+			],
+			[
+				"repl",
+				"replaceWith  (function)"
+			],
+			[
+				"pa",
+				"parents  (function)"
+			],
+			[
+				"remo",
+				"removeAttr  (function)"
+			],
+			[
+				"cu",
+				"currentMenu"
+			],
+			[
+				"f",
+				"fw	font-weight: bold"
+			],
+			[
+				"fs",
+				"fs	font-size: size"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bk",
+				"background-color"
+			],
+			[
+				"user",
+				"userArea"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"ind",
+				"include"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"Admin",
+				"Administrator"
+			],
+			[
+				"php",
+				"php	PHP-php"
+			],
+			[
+				"file_",
+				"file_path"
+			],
+			[
+				"o",
+				"owner"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"form_",
+				"form_input	CI - Form Helper - Input Field"
+			],
+			[
+				"floa",
+				"float-left"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"edi",
+				"editUser"
+			],
+			[
+				"Edi",
+				"EditUser"
+			],
+			[
+				"redi",
+				"redirect()"
+			],
+			[
+				"_",
+				"_userId_transferred  (variable)"
+			],
+			[
+				"get_fi",
+				"get_firstName"
+			],
+			[
+				"set",
+				"set_id  (function)"
+			],
+			[
+				"get",
+				"get_id  (function)"
+			],
+			[
+				"up",
+				"updateUser"
+			],
+			[
+				"dele",
+				"deleteFileById"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"con",
+				"construct	CI - Class Constructor"
+			],
+			[
+				"foe",
+				"foreach	foreach …"
+			],
+			[
+				"userFi",
+				"userFilesFinal"
+			],
+			[
+				"array_k",
+				"array_key_exists  (function)"
+			],
+			[
+				"get_file",
+				"get_filePath"
+			],
+			[
+				"ta",
+				"ta	text-align: right"
+			],
+			[
+				"file",
+				"filesList"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"is",
+				"isAdmin"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"fil",
+				"filesList"
+			],
+			[
+				"my",
+				"myUser"
+			],
+			[
+				"crea",
+				"createUser"
+			],
+			[
+				"create",
+				"create()	->create()"
+			],
+			[
+				"creat",
+				"create_function()"
+			],
+			[
+				"del",
+				"delUser"
+			],
+			[
+				"adm",
+				"admin_error"
+			],
+			[
+				"uri",
+				"uri_segment	CI - URI Segment"
+			],
+			[
+				"co",
+				"construct	CI - Class Constructor"
+			],
+			[
+				"r",
+				"ret	return"
+			],
+			[
+				"mod",
+				"model	CI - Base Model"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"generate",
+				"generate_table	CI - Generate Table"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"add",
+				"add_row"
+			],
+			[
+				"admin",
+				"adminCurrent"
+			],
+			[
+				"if",
+				"if	PHP-If"
+			],
+			[
+				"getU",
+				"getUpUserById"
+			],
+			[
+				"GET",
+				"getUpUserById  (function)"
+			],
+			[
+				"Q",
+				"query"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"all",
+				"allUsers"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"sess",
+				"session_destroy"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"set_",
+				"set_userdata"
+			],
+			[
+				"se",
+				"session  (variable)"
+			],
+			[
+				"auser",
+				"aUser"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"lo",
+				"logIn  (function)"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"files",
+				"Files"
+			],
+			[
+				"uni",
+				"unit_run	unit_testing_run"
+			],
+			[
+				"userFile",
+				"userFiles"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"inclu",
+				"include_once"
+			],
+			[
+				"clas",
+				"class_parents  (function)"
+			],
+			[
+				"load",
+				"load_model	CI - Load Model"
+			],
+			[
+				"bA",
+				"bodyBackground"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"bc",
+				"bc	border-color: color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"st",
+				"style	<style>"
+			],
+			[
+				"fn",
+				"Function"
+			],
+			[
+				"ro",
+				"routing  (variable)"
+			],
+			[
+				"__",
+				"__construct()"
+			],
+			[
+				"extend",
+				"extends  (keyword)"
+			],
+			[
+				"CI_",
+				"CI_Controller  (class)"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"n",
+				"navigationMenuNumbers"
+			],
+			[
+				"tt",
+				"tt	text-transform: upper"
+			],
+			[
+				"td",
+				"td	text-decoration: none"
+			],
+			[
+				"head",
+				"header	<header>"
+			],
+			[
+				"body",
+				"bodyBackground"
+			],
+			[
+				"bgc",
+				"bgc	background-color: name"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"err",
+				"errorCLassColor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"comm",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sC",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"snippet:cl",
+				"Snippet: Class"
+			],
+			[
+				"s",
+				"Snippet: Class"
+			],
+			[
+				"Snippet: get",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"SC",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"SCB",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"Sc",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"sc",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"lin",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"Pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"cod",
+				"Snippet: CodeIgniter Controller"
+			],
+			[
+				"",
+				"CI Codeintel Helper: Create IDE helper"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 497.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/april/application/modules/Short_Sale_Chicago/views/vw-Short_Sale_Chicago.php",
+		"/C/xampp/htdocs/april/application/modules/Foreclosure/controllers/Foreclosure.php",
+		"/C/xampp/htdocs/april/application/modules/Template/views/vw-template.php",
+		"/C/xampp/htdocs/april/application/modules/Template/views/menu.php",
+		"/C/xampp/htdocs/april/application/modules/Contact_Us/views/vw-Contact_Us.php",
+		"/C/xampp/htdocs/april/sass/screen.scss",
+		"/C/Users/ckotcha/AppData/Roaming/Sublime Text 2/Packages/User/myButton.sublime-snippet",
+		"/C/Users/ckotcha/Desktop/27_April_exam/function/screen.scss",
+		"/C/xampp/htdocs/april/application/modules/Foreclosure/views/vw-Forecloser_Facts.php",
+		"/C/xampp/htdocs/april/stylesheets/screen.css",
+		"/C/Users/ckotcha/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/april/application/modules/Short_Sale_Chicago/controllers/Short_Sale_Chicago.php",
+		"/C/Users/ckotcha/AppData/Roaming/Sublime Text 2/Packages/User/inputSCSS.sublime-snippet",
+		"/C/Users/ckotcha/AppData/Roaming/Sublime Text 2/Packages/User/formLabel.sublime-snippet",
+		"/C/Users/ckotcha/AppData/Roaming/Sublime Text 2/Packages/User/formLable.sublime-snippet",
+		"/C/Users/ckotcha/AppData/Roaming/Sublime Text 2/Packages/User/textarea.sublime-snippet",
+		"/C/xampp/htdocs/april/application/modules/FAQ/views/vw-FAQ.php",
+		"/C/xampp/htdocs/april/application/modules/FAQ/views/FAQ.php",
+		"/C/xampp/htdocs/april/application/modules/Contact_Us/controllers/Contact_Us.php",
+		"/C/xampp/htdocs/april/application/modules/Our_Partners/views/vw-Our_Partners.php",
+		"/C/xampp/htdocs/april/application/modules/FAQ/controllers/FAQ.php",
+		"/C/xampp/htdocs/april/application/modules/Our_Partners/controllers/Our_Partners.php",
+		"/C/xampp/htdocs/april/application/modules/Our_Closed_Property/controllers/Our_Closed_Property.php",
+		"/C/xampp/htdocs/april/application/modules/Our_Closed_Property/views/vw-Our_Closed_Property.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/controllers/Information_for_Buyers.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/controllers/Information_for_Sellers.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-What_is_Shortsale.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_Process.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_Terms.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_vs_Forecloser.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Seller_Benefits.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Choosing_Right_Rieltor.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Deed_in_Lieu.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Debt_Relief_Act_2007.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Short_Sale_for_Buyer.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Things-to-Remember.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Closing.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-House-Hunting.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Finance-Mortgage.php",
+		"/C/xampp/htdocs/april/application/modules/Foreclosure/views/vw-Foreclosure.php",
+		"/C/xampp/htdocs/april/application/modules/Foreclosure/views/vw-Foreclosure_Process.php",
+		"/C/xampp/htdocs/april/application/modules/Foreclosure/views/vw-Foreclosure_facts.php",
+		"/C/xampp/htdocs/april/application/modules/Template/controllers/template.php",
+		"/C/xampp/htdocs/april/application/modules/About_Us/views/vw-About_Us.php",
+		"/C/xampp/htdocs/april/application/config/config.php",
+		"/C/xampp/htdocs/sss/menu.php",
+		"/C/xampp/htdocs/sss/index.php",
+		"/C/xampp/htdocs/april/application/modules/About_Us/controllers/About_Us.php",
+		"/C/xampp/htdocs/april/application/core/MY_Router.php",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/User/module.sublime-snippet",
+		"/C/xampp/htdocs/april/application/config/routes.php",
+		"/C/xampp/htdocs/april/.htaccess",
+		"/C/xampp/htdocs/april/application/modules/Short_Sale_Chicago/controllers/welcome.php",
+		"/C/xampp/htdocs/april/application/modules/welcome/controllers/welcome.php",
+		"/C/xampp/htdocs/april/stylesheets/app.css",
+		"/C/xampp/htdocs/april/index.php",
+		"/C/xampp/htdocs/q/application/config/hooks.php",
+		"/C/xampp/htdocs/q/application/config/constants.php",
+		"/C/xampp/htdocs/q/application/config/routes.php",
+		"/C/xampp/htdocs/april/application/config/autoload.php",
+		"/C/xampp/htdocs/april/application/controllers/welcome.php",
+		"/C/xampp/htdocs/april/application/modules/welcome/controller/welcome.php",
+		"/C/xampp/htdocs/april/application/modules/welcome/controller",
+		"/C/xampp/htdocs/april/application/.htaccess",
+		"/C/xampp/htdocs/q/application/.htaccess",
+		"/C/xampp/htdocs/q/application/views/Contact-view.php",
+		"/C/xampp/htdocs/q/application/controllers/Legal_Partner_Skokie_Northbrook.php",
+		"/C/xampp/htdocs/q/application/views/includes/header.php",
+		"/C/xampp/htdocs/q/comp/sass/_generalElements.scss",
+		"/C/xampp/htdocs/q/passwords.txt",
+		"/C/Users/EATTHA~1/AppData/Local/Temp/Rar$DR03.766/ci_day3/application/controllers/email.php",
+		"/C/Users/Eatthatfrog/Desktop/ci_day3/application/config/email.php",
+		"/C/xampp/htdocs/q/comp/sass/_mainContent.scss",
+		"/C/xampp/htdocs/q/application/views/Home-view.php",
+		"/C/xampp/htdocs/q/application/controllers/Admin.php",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/q/comp/stylesheets/screen.css",
+		"/C/xampp/htdocs/q/comp/config.rb",
+		"/C/xampp/htdocs/q/application/views/includes/footer.php",
+		"/C/xampp/htdocs/q/js/script.js",
+		"/C/xampp/htdocs/q/comp/sass/_header.scss",
+		"/C/xampp/htdocs/q/application/views/includes/nav.php",
+		"/C/xampp/htdocs/q/application/views/OurFirm-view.php",
+		"/C/xampp/htdocs/q/application/views/Community-view.php",
+		"/C/xampp/htdocs/q/application/views/News-view.php",
+		"/C/xampp/htdocs/q/application/views/Offices-view.php",
+		"/C/xampp/htdocs/q/application/views/PracticeAreas-view.php",
+		"/C/xampp/htdocs/q/application/views/includes/loginform.php",
+		"/C/xampp/htdocs/q/application/views/partner-view.php",
+		"/C/xampp/htdocs/q/application/controllers/partner.php",
+		"/C/xampp/htdocs/q/comp/sass/screen.scss",
+		"/C/xampp/htdocs/q/comp/fire_app_log.txt",
+		"/C/xampp/htdocs/q/application/controllers/logout.php",
+		"/C/xampp/htdocs/q/comp/sass/_app.scss",
+		"/C/xampp/htdocs/q/comp/sass/app.scss",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/q/index.php",
+		"/C/xampp/htdocs/q/application/models/Files.php",
+		"/C/xampp/htdocs/q/application/controllers/Classes/UploadedFile.php",
+		"/C/xampp/htdocs/q/SVN/application/controllers/Admin.php",
+		"/C/xampp/htdocs/q/application/views/Admin-view.php",
+		"/C/xampp/htdocs/q/application/controllers/Home.php",
+		"/C/xampp/htdocs/q/application/controllers/client.php",
+		"/c/users/eattha~1/appdata/local/temp/sublime-svn-1366491908/SVN",
+		"/C/xampp/htdocs/q/application/controllers/upload.php",
+		"/C/xampp/htdocs/q/application/views/EditUser-view.php",
+		"/C/xampp/htdocs/q/application/models/Users.php",
+		"/C/xampp/htdocs/q/application/config/config.php",
+		"/C/xampp/htdocs/q/application/controllers/Classes/ClientUser.php",
+		"/C/xampp/htdocs/q/application/controllers/Classes/AdminUser.php",
+		"/C/xampp/htdocs/q/application/controllers/Classes/User.php",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/User/db.sublime-snippet",
+		"/C/xampp/htdocs/q/application/views/qwerty",
+		"/C/xampp/htdocs/q/text",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/User/st2.sublime-snippet",
+		"/C/xampp/htdocs/q/Anita-project.sublime-workspace",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/PHP/PHP.sublime-completions",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/PHP Built-in WebServer/PHP Built-in WebServer.sublime-settings",
+		"/C/xampp/htdocs/q/comp/sass/_header.css",
+		"/C/xampp/htdocs/q/application/models/User_model.php",
+		"/C/xampp/htdocs/q/ci_ide_helper.php",
+		"/C/xampp/htdocs/q/application/controllers/Classes/PassGenerator.php",
+		"/C/xampp/htdocs/q/application/config/autoload.php",
+		"/C/xampp/htdocs/q/SveticTasks/1.txt",
+		"/C/xampp/htdocs/q/comp/sass/_mainContent.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\Eatthatfrog\\AppData\\Roaming\\Sublime Text 2\\Packages",
+			"C:\\Users\\Eatthatfrog\\AppData\\Roaming\\Sublime Text 2\\Packages\\.sublime-completions",
+			"C:\\Users\\Eatthatfrog\\AppData\\Roaming\\Sublime Text 2\\Packages",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"contentColumnWidth",
+			"left",
+			"first level",
+			"#2b5170",
+			"background-color",
+			"button",
+			"body",
+			"sideBar",
+			"\nareasServed",
+			"headerLogoColomnWidth",
+			"siteWidth",
+			"outerWrapperWidth",
+			"$outerWrapperWidth",
+			"outerWrapperWidth",
+			"960px",
+			"gist",
+			"g",
+			"content",
+			"headerPhoneNumber",
+			"input",
+			"main",
+			"large",
+			"      </",
+			"placeholder",
+			"primary-color",
+			"lable",
+			"large-4.columns",
+			"Content",
+			"content",
+			"6",
+			"4",
+			"id",
+			"large",
+			"8",
+			"=\"",
+			".php",
+			"Short_Sale_Process",
+			"What_is_Shortsale",
+			"Short_Sale_Chicago",
+			"Remember",
+			"Short_Sale_Chicago",
+			"icons-phone",
+			"headerContentBottom",
+			"textButton",
+			"$this->session->userdata",
+			"Files",
+			"logout",
+			"is_LoggedIn",
+			"editUserContainer",
+			"Admin",
+			"editUser",
+			"segment",
+			"ctrl+t",
+			"arrayCounter",
+			"c",
+			"C",
+			"isAdmin",
+			"Mark",
+			"mark",
+			"Mark",
+			"ctrl+shift+l",
+			"select_line",
+			"select",
+			"select ",
+			"line",
+			"select line",
+			"select lines",
+			"ctrl+shift+l\"",
+			"ctrl+shift+l",
+			"formLabels",
+			"form_fieldset",
+			"public",
+			"	}",
+			".",
+			"uEmail",
+			"arr1",
+			"();\n",
+			"login_form",
+			"lastName",
+			"inp1",
+			"//LOCATION:",
+			"$karim",
+			"karim",
+			"->",
+			"function",
+			"row",
+			"id",
+			"();",
+			"();\n",
+			"_filesList",
+			"_usersModel",
+			"email",
+			"/////////////////////////////////////////",
+			"result",
+			"');",
+			"_filePath",
+			"_fileId",
+			"count",
+			");\n",
+			")');",
+			"_unitTest",
+			"id",
+			"_id",
+			"public function get$()\n{\n   return $this->_id;\n}",
+			"	$",
+			"function __construct(argument)",
+			"\"trigger\": \"class",
+			"class",
+			"prev",
+			"*.sublime-completions",
+			"prev",
+			"prev	",
+			"_fileLists",
+			"unction __construct(argument)",
+			"class.sublime-snippet",
+			"pass",
+			"	$this->db->where('email', $emailAddress);\n",
+			"img",
+			"page",
+			"<a",
+			"Contact_Information",
+			"Legal_Partner_Skokie_Northbrook",
+			"Neighborhood_Partner",
+			"Community_Legal_Aid",
+			"Java",
+			"Community",
+			"top",
+			"vintage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"placeholder",
+			"input",
+			"type",
+			"textarea",
+			"placeholder",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CoffeeLintPanel":
+	{
+		"height": 132.0
+	},
+	"output.coffeecompile_output":
+	{
+		"height": 295.0
+	},
+	"output.exec":
+	{
+		"height": 72.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"output.xdebug_inspect":
+	{
+		"height": 132.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"stylesheets/screen.css"
+			],
+			[
+				"vw-sho",
+				"application/modules/Short_Sale_Chicago/views/vw-Short_Sale_Chicago.php"
+			],
+			[
+				"chicago",
+				"application/modules/Short_Sale_Chicago/controllers/Short_Sale_Chicago.php"
+			],
+			[
+				"vw-tem",
+				"application/modules/template/views/vw-template.php"
+			],
+			[
+				"scre",
+				"stylesheets/screen.css"
+			],
+			[
+				"menu",
+				"april/application/modules/Template/views/menu.php"
+			],
+			[
+				"_gen",
+				"comp/sass/_generalElements.scss"
+			],
+			[
+				"_mai",
+				"comp/sass/_mainContent.scss"
+			],
+			[
+				"head",
+				"application/views/includes/header.php"
+			],
+			[
+				"contact",
+				"application/views/Contact-view.php"
+			],
+			[
+				"home",
+				"application/views/Home-view.php"
+			],
+			[
+				"admin",
+				"application/controllers/Admin.php"
+			],
+			[
+				"foo",
+				"application/views/includes/footer.php"
+			],
+			[
+				"ho",
+				"application/views/Home-view.php"
+			],
+			[
+				"logi",
+				"application/views/includes/loginform.php"
+			],
+			[
+				"_head",
+				"comp/sass/_header.scss"
+			],
+			[
+				"login",
+				"application/views/includes/loginform.php"
+			],
+			[
+				"header",
+				"application/views/includes/header.php"
+			],
+			[
+				"part",
+				"application/controllers/partner.php"
+			],
+			[
+				"_main",
+				"comp/sass/_mainContent.scss"
+			],
+			[
+				"uplo",
+				"application/controllers/Classes/UploadedFile.php"
+			],
+			[
+				"files",
+				"application/models/Files.php"
+			],
+			[
+				"adm",
+				"application/controllers/Admin.php"
+			],
+			[
+				"admi",
+				"application/controllers/Admin.php"
+			],
+			[
+				"file",
+				"application/models/Files.php"
+			],
+			[
+				"client",
+				"application/controllers/client.php"
+			],
+			[
+				"loginform",
+				"application/views/includes/loginform.php"
+			],
+			[
+				"edi",
+				"application/views/EditUser-view.php"
+			],
+			[
+				"users",
+				"application/models/Users.php"
+			],
+			[
+				"edit",
+				"application/views/EditUser-view.php"
+			],
+			[
+				"user",
+				"application/controllers/Classes/User.php"
+			],
+			[
+				"lo",
+				"application/views/includes/loginform.php"
+			],
+			[
+				"home-vi",
+				"application/views/Home-view.php"
+			],
+			[
+				"scss",
+				"comp/sass/screen.scss"
+			],
+			[
+				"view",
+				"application/views/Admin-view.php"
+			],
+			[
+				"screen",
+				"comp/sass/screen.scss"
+			],
+			[
+				"unit",
+				"application/controllers/SUnitTest.php"
+			],
+			[
+				"form",
+				"application/views/includes/loginform.php"
+			],
+			[
+				"hea",
+				"application/views/includes/header.php"
+			],
+			[
+				"uploa",
+				"application/controllers/Classes/UploadedFile.php"
+			],
+			[
+				"ad",
+				"application/controllers/Classes/AdminUser.php"
+			],
+			[
+				"incl",
+				"application/include.php"
+			],
+			[
+				"uni",
+				"application/controllers/UnitTest.php"
+			],
+			[
+				"he",
+				"application/views/includes/header.php"
+			],
+			[
+				"vi",
+				"application/views/Home-view.php"
+			],
+			[
+				"sc",
+				"comp/sass/screen.scss"
+			],
+			[
+				"js",
+				"js/script.coffee"
+			],
+			[
+				"scr",
+				"js/script.coffee"
+			],
+			[
+				"pra",
+				"application/controllers/Law_Practice_Areas.php"
+			],
+			[
+				"ro",
+				"application/config/routes.php"
+			],
+			[
+				"we",
+				"application/views/welcome_view.php"
+			],
+			[
+				"router",
+				"system/core/Router.php"
+			],
+			[
+				"wel",
+				"application/controllers/welcome.php"
+			],
+			[
+				"con",
+				"application/config/config.php"
+			],
+			[
+				"onfi",
+				"comp/config.rb"
+			],
+			[
+				"",
+				"user_guide/database/connecting.html"
+			],
+			[
+				"code",
+				"application/config/database.php"
+			],
+			[
+				"mess",
+				"application/views/welcome_message.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true
+}
