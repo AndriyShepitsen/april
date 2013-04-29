@@ -97,6 +97,7 @@ font-family: 'Special Elite', cursive;
 	font-weight: normal;
 	line-height:1.7;
 	color: #292929;
+	min-height:925px;
 	
 }
 
@@ -226,8 +227,13 @@ body{
 
 #content {
 	@include contentFormatting;
+	.disc{
+		margin-left: 25px;
+	}
+
 	
 }
+/*==========  vw-Debt_Relief_Act_2007 starts here  ==========*/
 
 
 #shortSaleRealtors h1{
