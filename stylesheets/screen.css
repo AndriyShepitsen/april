@@ -6369,6 +6369,21 @@ body {
 
 /*=contact-us-starts-here*/
 /* line 370, ../sass/screen.scss */
+.error {
+  color: red;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+/* line 377, ../sass/screen.scss */
+.thankYouMessage {
+  font-size: 1.3em;
+  line-height: 1.2em;
+  color: green;
+  height: 500px;
+}
+
+/* line 384, ../sass/screen.scss */
 .contactUsContent {
   float: left;
   width: 755px;
@@ -6381,25 +6396,25 @@ body {
   font-family: 'Sanchez', serif;
   color: #292929;
 }
-/* line 382, ../sass/screen.scss */
+/* line 396, ../sass/screen.scss */
 .contactUsContent textarea {
   height: 300px;
   font-size: 1em;
 }
-/* line 386, ../sass/screen.scss */
+/* line 400, ../sass/screen.scss */
 .contactUsContent #submit {
   font-size: 1em;
   margin-left: 14px;
 }
-/* line 390, ../sass/screen.scss */
+/* line 404, ../sass/screen.scss */
 .contactUsContent input {
   margin-bottom: 20px;
 }
-/* line 393, ../sass/screen.scss */
+/* line 407, ../sass/screen.scss */
 .contactUsContent label {
   font-size: 1em;
 }
-/* line 396, ../sass/screen.scss */
+/* line 410, ../sass/screen.scss */
 .contactUsContent fieldset {
   font-size: 16px;
 }

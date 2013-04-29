@@ -50,12 +50,11 @@ sss-->
 
 
 <?php
-
-
-$this->load->view($module.'/'.$view, $test, FALSE);
-
-
-
+  if (isset($datum)) {
+  $this->load->view($module.'/'.$view, $datum);
+} else {
+  $this->load->view($module.'/'.$view);
+}
 ?>
 
 
