@@ -1,3 +1,4 @@
+*.meta
 DocProject/Help/*.hhk
 dist
 DocProject/Help/*.hhc
@@ -37,7 +38,6 @@ tmp/
 *.psess
 pip-log.txt
 publish
-Generated_Code #added for RIA/Silverlight projects
 # ReSharper is a .NET coding add-in
 eggs
 [Oo]bj
@@ -45,7 +45,6 @@ eggs
 # DocProject is a documentation generator add-in
 [Dd]ebug/
 Backup*/
-*.meta
 *.swp
 # External tool builders
 *.launch
@@ -65,6 +64,7 @@ local.properties
 # CDT-specific
 Thumbs.db
 *.bak
+# Visual C++ cache files
 ~$*
 *_i.c
 var
@@ -83,7 +83,7 @@ UpgradeLog*.XML
 ipch/
 .classpath
 *.rsp
-# Visual C++ cache files
+Generated_Code #added for RIA/Silverlight projects
 TestResults
 DocProject/buildhelp/
 DocProject/Help/html
@@ -105,7 +105,7 @@ _UpgradeReport_Files/
 .mr.developer.cfg
 .buildpath
 parts
-build
+fire_app_log.txt
 *.sbr
 #packages/
 *.aps
@@ -115,6 +115,7 @@ stylecop.*
 .externalToolBuilders/
 ## Python
 sql
+build
 *_p.c
 *~.nib
 .metadata
