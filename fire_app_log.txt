@@ -325,3 +325,47 @@
 2013-04-27 12:27:01 identical stylesheets/screen.css 
 2013-04-27 12:28:47 unchanged images/icon-s15acc932ca.png
 2013-04-27 12:28:49 overwrite stylesheets/screen.css 
+2013-04-29 10:43:18 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:43:22 overwrite stylesheets/screen.css 
+2013-04-29 10:43:33 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:43:36 identical stylesheets/screen.css 
+2013-04-29 10:44:08     error sass/screen.scss (Line 220: Invalid CSS after "	font-weight": expected ";", was ": normal;")
+2013-04-29 10:44:08 overwrite stylesheets/screen.css 
+2013-04-29 10:44:30 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:44:33 overwrite stylesheets/screen.css 
+2013-04-29 10:44:50 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:44:52 overwrite stylesheets/screen.css 
+2013-04-29 10:45:00 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:45:02 identical stylesheets/screen.css 
+2013-04-29 10:47:34 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:47:36 overwrite stylesheets/screen.css 
+2013-04-29 10:47:42 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:47:43 identical stylesheets/screen.css 
+2013-04-29 10:48:09 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:48:11 overwrite stylesheets/screen.css 
+2013-04-29 10:48:17 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:48:18 identical stylesheets/screen.css 
+2013-04-29 10:50:36     error sass/screen.scss (Line 208: Invalid CSS after "@mixin ": expected identifier, was "{")
+2013-04-29 10:50:36 overwrite stylesheets/screen.css 
+2013-04-29 10:51:16 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:51:18 overwrite stylesheets/screen.css 
+2013-04-29 10:52:40     error sass/screen.scss (Line 208: Invalid CSS after "...elvetica Neue",": expected variable (e.g. $foo), was "​Arial,​san...")
+2013-04-29 10:52:40 overwrite stylesheets/screen.css 
+2013-04-29 10:53:03     error sass/screen.scss (Line 208: Invalid CSS after "...elvetica Neue",": expected variable (e.g. $foo), was "​Arial,​san...")
+2013-04-29 10:53:03 identical stylesheets/screen.css 
+2013-04-29 10:53:26     error sass/screen.scss (Line 208: Invalid CSS after "...elvetica Neue",": expected variable (e.g. $foo), was "​Arial,​san...")
+2013-04-29 10:53:26 identical stylesheets/screen.css 
+2013-04-29 10:54:13     error sass/screen.scss (Line 208: Invalid CSS after "...elvetica Neue",": expected variable (e.g. $foo), was "​ Arial,​ s...")
+2013-04-29 10:54:13 overwrite stylesheets/screen.css 
+2013-04-29 10:54:47 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:54:48 overwrite stylesheets/screen.css 
+2013-04-29 10:56:39     error sass/screen.scss (Line 208: Required argument $anyBackgroundColor must come before any optional arguments.)
+2013-04-29 10:56:39 overwrite stylesheets/screen.css 
+2013-04-29 10:56:55     error sass/screen.scss (Line 208: Invalid CSS after "...ndColor:#FFFFFF": expected ")", was ";) {")
+2013-04-29 10:56:55 overwrite stylesheets/screen.css 
+2013-04-29 10:57:33 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:57:35 overwrite stylesheets/screen.css 
+2013-04-29 10:58:20 unchanged images/icon-s15acc932ca.png
+2013-04-29 10:58:21 overwrite stylesheets/screen.css 
+2013-04-29 11:06:37 unchanged images/icon-s15acc932ca.png
+2013-04-29 11:06:39 overwrite stylesheets/screen.css 

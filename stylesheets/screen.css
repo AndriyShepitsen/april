@@ -5886,14 +5886,14 @@ button.button.large {
 /*==========  Functions  ==========*/
 /*==========  Mixins  ==========*/
 /*=outerWharrer starts here*/
-/* line 86, ../sass/screen.scss */
+/* line 105, ../sass/screen.scss */
 body {
   color: #333;
   background-color: #d5e0ea;
   font: 14px "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 
-/* line 91, ../sass/screen.scss */
+/* line 110, ../sass/screen.scss */
 #outerWrapper {
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
@@ -5905,20 +5905,20 @@ body {
 }
 
 /*=header starts here*/
-/* line 100, ../sass/screen.scss */
+/* line 119, ../sass/screen.scss */
 #header {
   overflow: auto;
   position: relative;
 }
 
-/* line 104, ../sass/screen.scss */
+/* line 123, ../sass/screen.scss */
 #headerContent {
   overflow: auto;
   width: contentColumnWidth;
   float: left;
 }
 
-/* line 109, ../sass/screen.scss */
+/* line 128, ../sass/screen.scss */
 #headerLogoContent {
   width: 240px;
   float: left;
@@ -5926,31 +5926,31 @@ body {
   display: block;
 }
 
-/* line 115, ../sass/screen.scss */
+/* line 134, ../sass/screen.scss */
 #headerContentTop {
   overflow: auto;
 }
 
-/* line 118, ../sass/screen.scss */
+/* line 137, ../sass/screen.scss */
 #headerContentBottom {
   overflow: auto;
   width: 100%;
 }
-/* line 121, ../sass/screen.scss */
+/* line 140, ../sass/screen.scss */
 #headerContentBottom .icon {
   width: 24px;
   float: right;
   margin-left: 10px;
 }
 
-/* line 129, ../sass/screen.scss */
+/* line 148, ../sass/screen.scss */
 #headerHomeImg, #headerLetterImg {
   float: left;
   width: 24px;
   padding-top: 5px;
 }
 
-/* line 134, ../sass/screen.scss */
+/* line 153, ../sass/screen.scss */
 #headerLetterImg {
   vertical-align: bottom;
   display: block;
@@ -5958,7 +5958,7 @@ body {
   padding-left: 10px;
 }
 
-/* line 144, ../sass/screen.scss */
+/* line 163, ../sass/screen.scss */
 #headerPhoneNumber {
   float: left;
   width: 575px;
@@ -5968,7 +5968,7 @@ body {
   letter-spacing: 2px;
 }
 
-/* line 155, ../sass/screen.scss */
+/* line 174, ../sass/screen.scss */
 #companyName {
   font-family: 'Special Elite', cursive;
   float: left;
@@ -5984,24 +5984,24 @@ body {
   text-shadow: #FFF 1px 1px 0px;
 }
 
-/* line 158, ../sass/screen.scss */
+/* line 177, ../sass/screen.scss */
 #headerPicture {
   float: left;
   width: 437px;
   box-shadow: black 1px 1px 0px;
 }
 
-/* line 163, ../sass/screen.scss */
+/* line 182, ../sass/screen.scss */
 #headerPicture a img {
   /* [disabled]border: 1px solid #0055A5; */
 }
 
-/* line 166, ../sass/screen.scss */
+/* line 185, ../sass/screen.scss */
 #headerContentBottom {
   overflow: auto;
 }
 
-/* line 170, ../sass/screen.scss */
+/* line 189, ../sass/screen.scss */
 #headerPhoneImg {
   float: left;
   width: 24px;
@@ -6024,7 +6024,7 @@ body {
   background-position: 0 0;
 }
 
-/* line 181, ../sass/screen.scss */
+/* line 200, ../sass/screen.scss */
 .icon-phone {
   float: left;
   background: url('../images/icon-sf7affd0925.png');
@@ -6034,7 +6034,7 @@ body {
 }
 
 /*=contentWrapper starts here*/
-/* line 192, ../sass/screen.scss */
+/* line 211, ../sass/screen.scss */
 #contentWrapper {
   width: 100%;
   overflow: auto;
@@ -6043,7 +6043,7 @@ body {
 }
 
 /*=sideBar starts here*/
-/* line 199, ../sass/screen.scss */
+/* line 218, ../sass/screen.scss */
 #sideBar {
   float: left;
   width: 200px;
@@ -6052,36 +6052,38 @@ body {
 }
 
 /*=content starts here*/
-/* line 206, ../sass/screen.scss */
+/* line 227, ../sass/screen.scss */
 #content {
   float: left;
   width: 755px;
-  background-color: #FFFFFF;
+  background-color: white;
   border-top-left-radius: 70px;
   moz-border-top-left-radius: 70px;
   webkit-border-top-left-radius: 70px;
   padding: 30px 20px 20px 25px;
   position: relative;
-  letter-spacing: normal;
-  font-family: 'Sanchez', serif;
+  letter-spacing: .2;
+  font-family: "Helvetica Neue,​ Arial,​ sans-serif";
+  font-size: 1.1em;
   font-weight: normal;
+  line-height: 1.7;
   color: #292929;
 }
 
-/* line 223, ../sass/screen.scss */
+/* line 233, ../sass/screen.scss */
 #shortSaleRealtors h1 {
   padding-bottom: 15px;
   font-size: 28px;
   font-weight: bold;
 }
 
-/* line 228, ../sass/screen.scss */
+/* line 238, ../sass/screen.scss */
 #shortSaleRealtors {
   line-height: 1.7em;
   text-align: justify;
 }
 
-/* line 232, ../sass/screen.scss */
+/* line 242, ../sass/screen.scss */
 #shortSaleNews h1 {
   padding-bottom: 10px;
   padding-top: 10px;
@@ -6090,20 +6092,20 @@ body {
   font-weight: bolder;
 }
 
-/* line 239, ../sass/screen.scss */
+/* line 249, ../sass/screen.scss */
 #shortSaleNews h2 {
   padding-bottom: 10px;
   padding-top: 10px;
   font-size: 2em;
 }
 
-/* line 245, ../sass/screen.scss */
+/* line 255, ../sass/screen.scss */
 #shortSaleNews img {
   display: block;
   margin: 20px auto;
 }
 
-/* line 254, ../sass/screen.scss */
+/* line 264, ../sass/screen.scss */
 #areasServed {
   font-size: 12px;
   line-height: 2em;
@@ -6138,7 +6140,7 @@ body {
 }
 
 /*=footer starts here*/
-/* line 262, ../sass/screen.scss */
+/* line 272, ../sass/screen.scss */
 #footer {
   width: 100%;
   background-color: #D5E0EA;
@@ -6146,7 +6148,7 @@ body {
   padding-bottom: 10px;
 }
 
-/* line 269, ../sass/screen.scss */
+/* line 279, ../sass/screen.scss */
 #footerContent {
   width: 960px;
   margin: 0em auto 0px;
@@ -6156,14 +6158,14 @@ body {
   border: 4px solid #A1BAD0;
 }
 
-/* line 277, ../sass/screen.scss */
+/* line 287, ../sass/screen.scss */
 #footerContentTop {
   width: 100%;
   overflow: auto;
   padding-bottom: 10px;
 }
 
-/* line 282, ../sass/screen.scss */
+/* line 292, ../sass/screen.scss */
 #footerContentBottom {
   width: 100%;
   overflow: auto;
@@ -6171,13 +6173,13 @@ body {
   border-top: 1px solid #a1bad0;
 }
 
-/* line 289, ../sass/screen.scss */
+/* line 299, ../sass/screen.scss */
 #connectWithUs {
   float: left;
   width: 180px;
 }
 
-/* line 293, ../sass/screen.scss */
+/* line 303, ../sass/screen.scss */
 #footerAddress {
   text-align: center;
   width: 150px;
@@ -6189,7 +6191,7 @@ body {
   padding-top: 5px;
 }
 
-/* line 303, ../sass/screen.scss */
+/* line 313, ../sass/screen.scss */
 #footerPhoneNumbers {
   text-align: center;
   width: 180px;
@@ -6202,13 +6204,13 @@ body {
   padding-top: 5px;
 }
 
-/* line 314, ../sass/screen.scss */
+/* line 324, ../sass/screen.scss */
 #footerLogo {
   float: left;
   width: 150px;
 }
 
-/* line 318, ../sass/screen.scss */
+/* line 328, ../sass/screen.scss */
 #footerCompanyName {
   float: left;
   width: 250px;
@@ -6219,7 +6221,7 @@ body {
   text-shadow: #FFF 1px 1px 0px;
 }
 
-/* line 327, ../sass/screen.scss */
+/* line 337, ../sass/screen.scss */
 #footerRights {
   float: right;
   width: 180px;
@@ -6231,7 +6233,7 @@ body {
 }
 
 /*=sideBar*/
-/* line 342, ../sass/screen.scss */
+/* line 352, ../sass/screen.scss */
 #sideBar {
   width: 200px;
   float: left;
@@ -6240,7 +6242,7 @@ body {
   padding: 5px;
 }
 
-/* line 349, ../sass/screen.scss */
+/* line 359, ../sass/screen.scss */
 .firstLevel {
   border-style: solid;
   border-width: 1px;
@@ -6302,7 +6304,7 @@ body {
   color: white;
 }
 
-/* line 353, ../sass/screen.scss */
+/* line 363, ../sass/screen.scss */
 .secondLevel {
   border-style: solid;
   border-width: 1px;
@@ -6366,7 +6368,7 @@ body {
 }
 
 /*=contact-us-starts-here*/
-/* line 360, ../sass/screen.scss */
+/* line 370, ../sass/screen.scss */
 .contactUsContent {
   float: left;
   width: 755px;
@@ -6379,25 +6381,25 @@ body {
   font-family: 'Sanchez', serif;
   color: #292929;
 }
-/* line 372, ../sass/screen.scss */
+/* line 382, ../sass/screen.scss */
 .contactUsContent textarea {
   height: 300px;
   font-size: 1em;
 }
-/* line 376, ../sass/screen.scss */
+/* line 386, ../sass/screen.scss */
 .contactUsContent #submit {
   font-size: 1em;
   margin-left: 14px;
 }
-/* line 380, ../sass/screen.scss */
+/* line 390, ../sass/screen.scss */
 .contactUsContent input {
   margin-bottom: 20px;
 }
-/* line 383, ../sass/screen.scss */
+/* line 393, ../sass/screen.scss */
 .contactUsContent label {
   font-size: 1em;
 }
-/* line 386, ../sass/screen.scss */
+/* line 396, ../sass/screen.scss */
 .contactUsContent fieldset {
   font-size: 16px;
 }

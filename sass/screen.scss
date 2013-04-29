@@ -58,6 +58,8 @@ font-family: 'Special Elite', cursive;
 	text-shadow: #FFF 1px 1px 0px;
 }
 
+
+
 @mixin firstLevelButton($anyColor){
 	@include button($full-width:true);
 	@include radius;
@@ -79,6 +81,23 @@ font-family: 'Special Elite', cursive;
 	text-align:left;
 	padding-left: 10px;
 	font-size: 14px;
+}
+@mixin contentFormatting($anyFontFamily:"Helvetica Neue,​ Arial,​ sans-serif", $anyBackgroundColor:#FFFFFF) {
+	float: left;
+	width: 755px;
+	background-color: $anyBackgroundColor;
+	border-top-left-radius: 70px;
+	moz-border-top-left-radius: 70px;
+	webkit-border-top-left-radius: 70px;
+	padding: 30px 20px 20px 25px;
+	position: relative;
+	letter-spacing: .2;
+	font-family: $anyFontFamily;
+	font-size: 1.1em;
+	font-weight: normal;
+	line-height:1.7;
+	color: #292929;
+	
 }
 
 /*=outerWharrer starts here*/
@@ -203,19 +222,10 @@ body{
 	padding-top: 62px;
 }
 /*=content starts here*/
+
+
 #content {
-	float: left;
-	width: 755px;
-	background-color: #FFFFFF;
-	border-top-left-radius: 70px;
-	moz-border-top-left-radius: 70px;
-	webkit-border-top-left-radius: 70px;
-	padding: 30px 20px 20px 25px;
-	position: relative;
-	letter-spacing: normal;
-	font-family: 'Sanchez', serif;
-	font-weight: normal;
-	color: #292929;
+	@include contentFormatting;
 	
 }
 
