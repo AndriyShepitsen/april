@@ -7,7 +7,7 @@
 <ol class="shortSaleVSForeclosure">
 <li><strong>Closing Rate</strong> - If you are in a position to need a Short Sale, it MUST get approved by the bank.
 Realtor Average - 21%
-Shudnow Short Sale Group 83%</li>
+Our Short Sale Group 83%</li>
 
 <li><strong>Negotiations</strong> - We negotiate all of our short sales in house.  Not only that, we negotiate for other Realtors (RE/MAX, Coldwell Banker, Century 21 ...) as well.  </li>
 <br/>
@@ -30,3 +30,8 @@ Shudnow Short Sale Group 83%</li>
 
     
     </div>
+<script type="text/javascript">
+$(function(){
+menuSelect(10);
+});
+</script>

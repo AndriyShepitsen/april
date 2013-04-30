@@ -19,3 +19,8 @@
 
 <p>Other types of foreclosure are considered minor because of their limited availability. Under <strong>strict foreclosure</strong>, which is available in a few states including Connecticut, New Hampshire and Vermont, suit is brought by the mortgagee and if successful, a court orders the defaulted mortgagor to pay the mortgage within a specified period of time. Should the mortgagor fail to do so, the mortgage holder gains the title to the property with no obligation to sell it. This type of foreclosure is generally available only when the value of the property is less than the debt ("under water"). Historically, strict foreclosure was the original method of foreclosure.</p>
     </div>
+<script type="text/javascript">
+$(function(){
+menuSelect(3);
+});
+</script>

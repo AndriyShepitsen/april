@@ -123,3 +123,8 @@ To claim this exclusion, you must attach Form 982 to your federal income tax ret
 
 (2) See the IRS news release IR-2008-17 with additional questions and answers on IRS.gov.</dd></dl>
     </div>
+<script type="text/javascript">
+$(function(){
+menuSelect(13);
+});
+</script>

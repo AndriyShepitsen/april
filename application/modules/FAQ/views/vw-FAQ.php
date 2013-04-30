@@ -33,3 +33,8 @@ A short sale in real estate occurs when the outstanding loans against a property
 <dd>YES. You will not have to move out until the closing.</dl></dd>
     
     </div>
+<script type="text/javascript">
+$(function(){
+menuSelect(21);
+});
+</script>

@@ -4,12 +4,12 @@
    <section id="shortSaleRealtors"> 
    	<h1>Short Sale Realtors</h1>
     <p>RE/MAX Short Sale Chicago has the knowledge, experience and expertise to guide homeowners in a pre-foreclosure situation and help choose if a Short Sale is the best choice for you. </p>
-        <br>
+        
     <p>One time approved, a Short Sale helps an owner avoid foreclosure, additional fees paid to the lender for costs associated with a foreclosure, long term affects to their credit document and far more.</p>
-        <br>
+       
     <p>Avoiding foreclosure is always the best choice. In case you know you can no longer afford your home and can not sell your home because it is worth less than you owe, a Short Sale is your best choice.</p>
-        <br>
-    <p>Call us for a free, no obligation consultation: 312-544-00-64.</p>
+        
+    <p id="callUsHome">Call us for a free, no obligation consultation: 312-544-00-64.</p>
     </section>    `
 <hr>
     <div id="shortSaleNews">

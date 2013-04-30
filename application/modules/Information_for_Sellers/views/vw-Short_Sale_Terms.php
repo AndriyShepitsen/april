@@ -34,7 +34,7 @@
 <dd>An agreement between a mortgage holder and a borrower that lays out a specific loan payment plan and puts a stop on the foreclosure action so long as the borrower meets the terms of the agreement. The payment plan includes provisions for repayment to the mortgage holder of all delinquent interest and fees and could include extending the life of the mortgage beyond it's original term. A Forbearance Agreement is a tool that allows the borrower to keep the property.</dd>
 <dt>Judicial Foreclosure</dt>
 
-<dd>A foreclosure action conducted through the courts instead of through a foreclosure trustee. Judicial Foreclosures are very uncommon in California, particularly on residential properties. Should a lender elect to pursue a deficiency judgment, it would be through a Judicial Foreclosure.</dd>
+<dd>A foreclosure action conducted through the courts instead of through a foreclosure trustee. Judicial Foreclosures are very uncommon in Illinois, particularly on residential properties. Should a lender elect to pursue a deficiency judgment, it would be through a Judicial Foreclosure.</dd>
 <dt>Junior Liens</dt>
 
 <dd>A lien, usually a mortgage loan, that is subordinate to a Senior Lien, usually a first mortgage. Lien priority is generally established by order of recordation . NOTE: if you refinance a 1st mortgage on a property with a 2nd mortgage already in place the new 1st mortgage holder will require a subordination agreement from Junior Lien holders to legally establish the new mortgage holder as 1st or Senior Position.</dd>
@@ -67,7 +67,7 @@
 <dd>A policy of insurance paid for by the borrower to protect the lender in the event the borrower defaults on the mortgage. Typically PMI is required by the mortgage holder when the down payment is less than 20% of the purchase price.</dd>
 <dt>Qualifying Funds</dt>
 
-<dd>In order to bid at a Trustee Sale bidder must have qualifying funds available at the sale. Qualifying funds are cash or a cashiers check(s) drawn by a State or National Bank, a check(s) drawn by a State or Federal Credit Union or check drawn by a State or Federal Savings and Loan Association, savings association or savings bank specified in section 5102 or the Financial Code and authorized to do business in the State of California.</dd>
+<dd>In order to bid at a Trustee Sale bidder must have qualifying funds available at the sale. Qualifying funds are cash or a cashiers check(s) drawn by a State or National Bank, a check(s) drawn by a State or Federal Credit Union or check drawn by a State or Federal Savings and Loan Association, savings association or savings bank specified in section 5102 or the Financial Code and authorized to do business in the State of Illinois.</dd>
 <dt>REO</dt>
 
 <dd>Short for Real Estate Owned. When a mortgage lender acquires a property, typically through foreclosure, it becomes real estate owned – or REO.</dd>
@@ -93,3 +93,8 @@ Note: The cancelled debt may not need to be reported as income. For more on a 10
 
 <dd>Conducted by the Trustee. The property is sold at auction to the highest bidder, or taken back by a foreclosing lender.</dl></dd>
     </div>
+<script type="text/javascript">
+$(function(){
+menuSelect(8);
+});
+</script>

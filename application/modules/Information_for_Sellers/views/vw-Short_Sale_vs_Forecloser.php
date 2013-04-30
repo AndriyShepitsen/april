@@ -65,3 +65,8 @@
 
 
     </div>
+<script type="text/javascript">
+$(function(){
+menuSelect(9);
+});
+</script>

@@ -19,3 +19,8 @@
 <p>The Home Equity Theft Prevention Act has created some confusion regarding this frequently-used method of settlement.[citation needed] It is unclear whether HETPA applies to deeds in lieu of foreclosure since there is no clear exclusion as there is for a referee's deed, for example. The 2-year right of rescission is not a risk that banks or title insurers are comfortable with, especially given the complexities of compliance, so many banks and title insurers in New York are not willing to work with deeds in lieu.[citation needed]</p>
     
     </div>
+<script type="text/javascript">
+$(function(){
+menuSelect(12);
+});
+</script>

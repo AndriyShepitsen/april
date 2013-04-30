@@ -33,3 +33,9 @@
 
 <p>One note: Don't automatically reject a house just because it doesn't measure up to your desires, either in features or price. You can always add a deck, for instance, or update a kitchen. Since the asking price is just a starting point for negotiation, you will be making offers and counteroffers as both parties seek an acceptable price</p>
 </div>
+
+<script type="text/javascript">
+$(function(){
+menuSelect(18);
+});
+</script>

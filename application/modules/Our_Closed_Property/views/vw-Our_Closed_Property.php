@@ -32,3 +32,8 @@ A vacant older commercial  Set of 5 strip stores. Sold for $350,000.</p>
 <p>5140 W. Dempster St., Skokie, IllinoisFormer BP gas station at corner of Dempster/Gross Point Rd. Land sold for $975,000
 and rebuilt as a new Shell gas station with two retail stores.</p>
     </div>
+<script type="text/javascript">
+$(function(){
+menuSelect(20);
+});
+</script>

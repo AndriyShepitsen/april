@@ -56,3 +56,8 @@
         <dt>Look for a Personality Match</dt>
         <dd>Once you know you've narrowed your search down to qualified professionals with the right expertise, make sure you choose someone you trust and who you like. "Regardless of whether you're a buyer or a seller, you'll be spending a lot of time with your Realtor and it should be someone you feel compatible and comfortable with," says Roll.</dd>
         </dl></div>
+<script type="text/javascript">
+$(function(){
+menuSelect(11);
+});
+</script>

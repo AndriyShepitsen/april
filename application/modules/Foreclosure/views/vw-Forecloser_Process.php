@@ -20,3 +20,8 @@ In this "power-of-sale" type of foreclosure, if the debtor fails to cure the def
 
 The highest bidder at the auction becomes the owner of the real property, free and clear of interest of the former owner, but possibly encumbered by liens superior to the foreclosed mortgage (e.g., a senior mortgage or unpaid property taxes). Further legal action, such as an eviction, may be necessary to obtain possession of the premises if the former occupant fails to voluntarily vacate.
     </div>
+<script type="text/javascript">
+$(function(){
+menuSelect(4);
+});
+</script>

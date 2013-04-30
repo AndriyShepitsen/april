@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"chil",
+				"children"
+			],
+			[
+				"men",
+				"menuSelect"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
 				"c",
 				"c	color: name"
 			],
@@ -238,10 +250,6 @@
 			[
 				"is",
 				"isAdmin"
-			],
-			[
-				"fun",
-				"fun	function …"
 			],
 			[
 				"fil",
@@ -604,46 +612,50 @@
 	},
 	"file_history":
 	[
-		"/C/xampp/htdocs/april/application/config/autoload.php",
-		"/C/xampp/htdocs/april/application/modules/Short_Sale_Chicago/controllers/Short_Sale_Chicago.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-What_is_Shortsale.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_Terms.php",
+		"/C/xampp/htdocs/april/application/modules/Foreclosure/views/vw-Forecloser_Facts.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Seller_Benefits.php",
+		"/C/xampp/htdocs/april/application/modules/Short_Sale_Chicago/views/vw-Short_Sale_Chicago.php",
+		"/C/xampp/htdocs/april/application/modules/About_Us/views/vw-About_Us.php",
+		"/C/xampp/htdocs/april/application/modules/template/views/vw-template.php",
+		"/C/xampp/htdocs/april/application/modules/Our_Partners/views/vw-Our_Partners.php",
+		"/C/xampp/htdocs/april/application/modules/Foreclosure/views/vw-Forecloser_Process.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_Process.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_vs_Forecloser.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Choosing_Right_Rieltor.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Deed_in_Lieu.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Debt_Relief_Act_2007.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Short_Sale_for_Buyer.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Things_To_Remember.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Finance_Mortgage.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-House_Hunting.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Closing.php",
+		"/C/xampp/htdocs/april/application/modules/Our_Closed_Property/views/vw-Our_Closed_Property.php",
+		"/C/xampp/htdocs/april/application/modules/FAQ/views/vw-FAQ.php",
+		"/C/xampp/htdocs/april/application/modules/Contact_Us/views/vw-Contact_Us.php",
+		"/C/xampp/htdocs/april/april.sublime-workspace",
+		"/C/xampp/htdocs/april/sass/screen.scss",
+		"/C/xampp/htdocs/april/application/config/config.php",
 		"/C/xampp/htdocs/april/.htaccess",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/april/index.php",
+		"/C/xampp/htdocs/april/application/modules/Short_Sale_Chicago/controllers/Short_Sale_Chicago.php",
+		"/C/xampp/htdocs/april/application/config/routes.php",
+		"/C/xampp/htdocs/april/application/config/autoload.php",
 		"/C/xampp/htdocs/april/1.htaccess",
 		"/C/xampp/htdocs/april/application/third_party/MX/Loader.php",
-		"/C/xampp/htdocs/april/index.php",
 		"/C/xampp/htdocs/april/application/modules/Contact_Us/controllers/Contact_Us.php",
 		"/C/xampp/htdocs/april/passwords.txt",
-		"/C/xampp/htdocs/april/application/config/config.php",
 		"/C/xampp/htdocs/april/system/core/Config.php",
 		"/C/xampp/htdocs/april/sftp-config.json",
-		"/C/xampp/htdocs/april/application/modules/Contact_Us/views/vw-Contact_Us.php",
 		"/C/xampp/htdocs/april/stylesheets/screen.css",
-		"/C/xampp/htdocs/april/sass/screen.scss",
 		"/C/xampp/htdocs/april/application/modules/template/controllers/template.php",
-		"/C/xampp/htdocs/april/application/modules/template/views/vw-template.php",
 		"/C/xampp/htdocs/april/application/modules/Contact_Us/views/vw-Thank_you.php",
 		"/C/xampp/htdocs/april/application/modules/Contact_Us/views/vw-Thank-you.php",
 		"/C/xampp/htdocs/q/application/controllers/NorthBrook_Skokie_Law_Partner.php",
 		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/User/qq.sublime-snippet",
-		"/C/xampp/htdocs/april/application/modules/Short_Sale_Chicago/views/vw-Short_Sale_Chicago.php",
 		"//Kasper/c/Users/ckotcha/Desktop/27_April_exam/function/screen.scss",
-		"/C/xampp/htdocs/april/application/modules/Our_Partners/views/vw-Our_Partners.php",
-		"/C/xampp/htdocs/april/application/modules/Our_Closed_Property/views/vw-Our_Closed_Property.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Deed_in_Lieu.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Seller_Benefits.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_Process.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_Terms.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_vs_Forecloser.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-What_is_Shortsale.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Debt_Relief_Act_2007.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Choosing_Right_Rieltor.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Closing.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Things_To_Remember.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-House_Hunting.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Short_Sale_for_Buyer.php",
-		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Finance_Mortgage.php",
-		"/C/xampp/htdocs/april/application/modules/Foreclosure/views/vw-Forecloser_Process.php",
-		"/C/xampp/htdocs/april/application/modules/Foreclosure/views/vw-Forecloser_Facts.php",
-		"/C/xampp/htdocs/april/application/modules/FAQ/views/vw-FAQ.php",
 		"/C/xampp/htdocs/april/sass/_app.scss",
 		"/C/xampp/htdocs/april/sass/_settings.scss",
 		"/C/xampp/htdocs/april/sass/normalize.scss",
@@ -672,11 +684,9 @@
 		"/C/xampp/htdocs/april/application/modules/Foreclosure/views/vw-Foreclosure.php",
 		"/C/xampp/htdocs/april/application/modules/Foreclosure/views/vw-Foreclosure_facts.php",
 		"/C/xampp/htdocs/april/application/modules/Template/controllers/template.php",
-		"/C/xampp/htdocs/april/application/modules/About_Us/views/vw-About_Us.php",
 		"/C/xampp/htdocs/sss/menu.php",
 		"/C/xampp/htdocs/sss/index.php",
 		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/User/module.sublime-snippet",
-		"/C/xampp/htdocs/april/application/config/routes.php",
 		"/C/xampp/htdocs/april/application/modules/Short_Sale_Chicago/controllers/welcome.php",
 		"/C/xampp/htdocs/april/application/modules/welcome/controllers/welcome.php",
 		"/C/xampp/htdocs/april/stylesheets/app.css",
@@ -699,7 +709,6 @@
 		"/C/xampp/htdocs/q/application/views/Home-view.php",
 		"/C/xampp/htdocs/q/application/controllers/Admin.php",
 		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/xampp/htdocs/q/comp/stylesheets/screen.css",
 		"/C/xampp/htdocs/q/comp/config.rb",
 		"/C/xampp/htdocs/q/application/views/includes/footer.php",
@@ -730,8 +739,7 @@
 		"/c/users/eattha~1/appdata/local/temp/sublime-svn-1366491908/SVN",
 		"/C/xampp/htdocs/q/application/controllers/upload.php",
 		"/C/xampp/htdocs/q/application/views/EditUser-view.php",
-		"/C/xampp/htdocs/q/application/models/Users.php",
-		"/C/xampp/htdocs/q/application/config/config.php"
+		"/C/xampp/htdocs/q/application/models/Users.php"
 	],
 	"find":
 	{
@@ -739,7 +747,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 104.0,
 		"where_history":
 		[
 			"",
@@ -754,6 +762,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"California",
+			"Shudnow",
+			"Mark",
+			"jquery",
+			"Short-Sale-Chicago",
+			"404",
 			"/$",
 			"domain",
 			"found",
@@ -954,6 +968,26 @@
 		"selected_items":
 		[
 			[
+				"scr",
+				"sass/screen.scss"
+			],
+			[
+				"vw-about_us.php",
+				"application/modules/About_Us/views/vw-About_Us.php"
+			],
+			[
+				"vw-our_partners.php",
+				"application/modules/Our_Partners/views/vw-Our_Partners.php"
+			],
+			[
+				"chicag",
+				"application/modules/Short_Sale_Chicago/controllers/Short_Sale_Chicago.php"
+			],
+			[
+				"chi",
+				"application/modules/Short_Sale_Chicago/controllers/Short_Sale_Chicago.php"
+			],
+			[
 				"short",
 				"application/modules/Short_Sale_Chicago/controllers/Short_Sale_Chicago.php"
 			],
@@ -964,10 +998,6 @@
 			[
 				"conta",
 				"application/modules/Contact_Us/controllers/Contact_Us.php"
-			],
-			[
-				"scr",
-				"sass/screen.scss"
 			],
 			[
 				"menu",
@@ -1196,6 +1226,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 438.0,
+	"side_bar_width": 292.0,
 	"status_bar_visible": true
 }

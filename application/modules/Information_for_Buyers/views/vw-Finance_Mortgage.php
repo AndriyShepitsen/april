@@ -42,3 +42,9 @@
 
 <p>Check on whether your employer can help; some big companies will chip in on the down payment or help you get a low-interest loan from selected lenders. You can also tap a 401(k) or similar retirement plan for a loan from yourself.</p>
     </div>
+
+    <script type="text/javascript">
+$(function(){
+menuSelect(17);
+});
+</script>

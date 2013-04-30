@@ -14,3 +14,8 @@
 
 <p>Some junior lien holders and others with an interest in the property may object to the amounts other lien holders are receiving. It is possible for any one lien holder to prevent a short sale by refusing to agree to negotiate a reduction in their payoff to release their lien. (Iowa has a procedure, sale free of liens, which allows a foreclosure court to "cram down" a short sale over the objections of the junior creditors.) If a creditor has mortgage insurance on their loan, the insurer will likely also become a third party to these negotiations, since the insurance policy may be asked to pay out a claim to offset the creditor's loss. The wide array of parties, parameters and processes involved in a short sale can make it a complex and highly specialized form of debt renegotiation. Short sales can have a high risk of failure from inability to obtain agreement from all parties, or they might not be approved in time to prevent a scheduled foreclosure date.</p>
     </div>
+<script type="text/javascript">
+$(function(){
+menuSelect(7);
+});
+</script>

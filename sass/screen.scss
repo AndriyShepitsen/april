@@ -166,7 +166,8 @@ body{
 	width: 575px;
 	color: $companyNameColor;
 	margin-left: 15px;
-	font: bold normal 28px "MS Serif", "New York", serif;
+	font-weight: bold;
+	font-size:1.9em; 
 	letter-spacing: 2px;
 }
 
@@ -222,8 +223,15 @@ body{
 	position: relative;
 	padding-top: 62px;
 }
-/*=content starts here*/
 
+.currentMenuElement{
+	color:red;
+}
+
+/*=content starts here*/
+#callUsHome{
+	font-weight: bold;
+}
 
 #content {
 	@include contentFormatting;

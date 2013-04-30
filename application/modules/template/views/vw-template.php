@@ -15,6 +15,16 @@ sss-->
 
 
 <link href="<?php echo base_url();?>stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script type="text/javascript">
+
+var menuSelect = function (childNum) {
+ var currentMenuEl =  $('ul#MenuBar1').children('li').eq(childNum).children('a');
+ currentMenuEl.css('background-color','#E51937');
+  }
+  
+</script>
+
 </head>
 
 <body>
@@ -27,7 +37,7 @@ sss-->
     
     	<div id="headerContentTop">
             <div id="companyName">Short Sale Chicago</div>
-          	<div id="headerPicture"><a href="index.php"><img src="<?php echo base_url();?>_img/chicago.jpg" alt="Chicago View"></a>
+          	<div id="headerPicture"><a href="<?php echo base_url();?>"><img src="<?php echo base_url();?>_img/chicago.jpg" alt="Chicago View"></a>
             </div><!--headerPicture-->
         </div><!--headerContentTop-->
         

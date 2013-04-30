@@ -47,3 +47,8 @@
 
 <dd>Sure, your lender will require a home appraisal anyway. But that's just the bank's way of determining whether the house is worth the price you've agreed to pay. Separately, you should hire your own home inspector, preferably an engineer with experience in doing home surveys in the area where you are buying. His or her job will be to point out potential problems that could require costly repairs down the road.</ol></dd>
     </div>
+    <script type="text/javascript">
+$(function(){
+menuSelect(16);
+});
+</script>

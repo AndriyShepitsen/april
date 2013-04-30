@@ -91,3 +91,8 @@ echo form_close();
 
 
  </div><!--content-->
+ <script type="text/javascript">
+$(function(){
+menuSelect(22);
+});
+</script>
