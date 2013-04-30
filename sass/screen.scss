@@ -227,13 +227,21 @@ body{
 
 #content {
 	@include contentFormatting;
+
 	.disc{
 		margin-left: 25px;
 
 	}
 
 	ol{
+
+	.shortSaleVSForeclosure{
 		margin-left: 25px;
+	}
+	.square{
+
+		margin-left: 25px;
+	}
 	}
 }
 /*==========  vw-Debt_Relief_Act_2007 starts here  ==========*/
@@ -390,7 +398,7 @@ margin-left: 20px;
 	height: 500px;
 }
 
-.contactUsContent{
+.contactUsContent {
 	float: left;
 	width: 755px;
 	background-color: #FFFFFF;
@@ -419,8 +427,9 @@ margin-left: 20px;
 	fieldset{
 		font-size: 16px;
 	}
-	
 
 }
+
+
 
 

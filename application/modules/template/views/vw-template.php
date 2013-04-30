@@ -35,16 +35,14 @@ sss-->
         <div class="icon-phone"></div>
         <div id="headerPhoneNumber">312-544-0064</div>
 
-         <a href="<?php echo base_url().'Contact-Us';?>">
-        <img class="icon" src="<?php echo base_url();?>images/mail.png" alt="short-sale-chicago-home">
-        </a>
-
         <a href="<?php echo base_url();?>">
         <img class="icon" src="<?php echo base_url();?>images/home.png" alt="short-sale-chicago-mail">
         </a>
 
-       
-
+        <a href="<?php echo base_url().'Contact-Us';?>">
+        <img class="icon" src="<?php echo base_url();?>images/mail.png" alt="short-sale-chicago-home">
+        </a>
+        
       </div><!--headerContentBottom-->
     </div><!--headerContent-->
   </div><!--header-->
