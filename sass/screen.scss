@@ -93,10 +93,11 @@ font-family: 'Special Elite', cursive;
 	position: relative;
 	letter-spacing: .2;
 	font-family: $anyFontFamily;
-	font-size: 1.1em;
+	font-size: 16px;
 	font-weight: normal;
 	line-height:1.7;
 	color: #292929;
+	min-height:925px;
 	
 }
 
@@ -226,8 +227,16 @@ body{
 
 #content {
 	@include contentFormatting;
-	
+	.disc{
+		margin-left: 25px;
+
+	}
+
+	ol{
+		margin-left: 25px;
+	}
 }
+/*==========  vw-Debt_Relief_Act_2007 starts here  ==========*/
 
 
 #shortSaleRealtors h1{
@@ -366,6 +375,20 @@ body{
 
 /*=contact-us-starts-here*/
 $main-font-size:  1em;
+
+.error {
+color:red;
+font-weight: bold;
+margin-left: 20px;
+
+}
+
+.thankYouMessage{
+	font-size: 1.3em;
+	line-height: 1.2em;
+	color: green;
+	height: 500px;
+}
 
 .contactUsContent{
 	float: left;

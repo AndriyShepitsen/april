@@ -11,6 +11,7 @@ class Short_Sale_Chicago extends MX_Controller {
 
 	public function index()
 	{
+		
 		$data['module'] = 'Short_Sale_Chicago';
 		$data['view'] = 'vw-Short_Sale_Chicago';
 

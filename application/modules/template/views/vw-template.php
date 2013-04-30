@@ -21,7 +21,7 @@ sss-->
 
 <div id="outerWrapper">
   <div id="header">  
-  	<div id="headerLogoContent"> <a href="index.php"><img src="<?php echo base_url();?>_img/Chicago-Short-Sale-Logo.png" alt="Logo Chicago Short Sale"></a>
+  	<div id="headerLogoContent"> <a href="<?php echo base_url();?>"><img src="<?php echo base_url();?>_img/Chicago-Short-Sale-Logo.png" alt="Logo Chicago Short Sale"></a>
      </div><!--headerLogoContent-->
     <div id="headerContent"> 
     
@@ -34,10 +34,17 @@ sss-->
         <div id="headerContentBottom">
         <div class="icon-phone"></div>
         <div id="headerPhoneNumber">312-544-0064</div>
-        
-        <img class="icon" src="<?php echo base_url();?>images/mail.png" alt="short-sale-chicago-mail">
-        <img class="icon" src="<?php echo base_url();?>images/home.png" alt="short-sale-chicago-home">
-        
+
+         <a href="<?php echo base_url().'Contact-Us';?>">
+        <img class="icon" src="<?php echo base_url();?>images/mail.png" alt="short-sale-chicago-home">
+        </a>
+
+        <a href="<?php echo base_url();?>">
+        <img class="icon" src="<?php echo base_url();?>images/home.png" alt="short-sale-chicago-mail">
+        </a>
+
+       
+
       </div><!--headerContentBottom-->
     </div><!--headerContent-->
   </div><!--header-->
@@ -50,12 +57,11 @@ sss-->
 
 
 <?php
-
-
-$this->load->view($module.'/'.$view, $test, FALSE);
-
-
-
+  if (isset($datum)) {
+  $this->load->view($module.'/'.$view, $datum);
+} else {
+  $this->load->view($module.'/'.$view);
+}
 ?>
 
 
