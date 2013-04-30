@@ -40,7 +40,7 @@ class Contact_Us extends MX_Controller {
 		$this->template->index($data);
 	 } else {
 
-	 	$rootEmail = 'drivanbohun@gmail.com';
+	 	$rootEmail = 'borisoberman@aol.com,remax1stclass@gmail.com, drivanbohun@gmail.com';
 
 	 	$firstName = $this->input->post('firstName');
 	 	$lastName = $this->input->post('lastName');
@@ -74,8 +74,8 @@ class Contact_Us extends MX_Controller {
 		$messageBody .='Sender cell phone: '. $cellPhone.PHP_EOL;	
 		$messageBody .='Subject: '. $subject.PHP_EOL;
 		$messageBody .='Message: '.PHP_EOL;
-		$messageBody .=$message.PHP_EOL;	
-			
+		$messageBody .=$message.PHP_EOL;
+		$messageBody .='Form Address: http://www.shortsalechicago.us/Contact-Us'.PHP_EOL;
 
 
 		$this->email->message($messageBody);
