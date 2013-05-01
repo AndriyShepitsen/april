@@ -21,7 +21,7 @@
 
 <p>Have your lawyer or buyers agent review this document to make sure the deal is contingent upon:</p>
 
-<ul class="shortSaleVSForeclosure">
+<ul class="disc">
 	<li>your obtaining a mortgage;</li>
 
 	<li>a home inspection that shows no significant defects (make sure you're clear on the definition of "significant");</li>

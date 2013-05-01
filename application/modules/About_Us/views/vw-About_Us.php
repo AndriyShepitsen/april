@@ -19,7 +19,6 @@
       <li>Knowledge of local building requirements and county codes</li>
       <li>Association with construction and trade professionals</li>
     </ul>
-<p></p>
 
 
 </div>

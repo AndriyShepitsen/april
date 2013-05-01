@@ -5,7 +5,7 @@ sss-->
 <head>
 <meta charset="utf-8">
 <title>Short Sale Proffessionals Chicago Northshore</title>
-
+<link href='http://fonts.googleapis.com/css?family=Noto+Serif' rel='stylesheet' type='text/css'><link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Julius+Sans+One' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Sanchez' rel='stylesheet' type='text/css'>
@@ -31,7 +31,7 @@ var menuSelect = function (childNum) {
 
 <div id="outerWrapper">
   <div id="header">  
-  	<div id="headerLogoContent"> <a href="<?php echo base_url();?>"><img src="<?php echo base_url();?>_img/Chicago-Short-Sale-Logo.png" alt="Logo Chicago Short Sale"></a>
+  	<div id="headerLogoContent"> <a href="<?php echo base_url();?>"><img src="<?php echo base_url();?>_img/Chicago-Short-Sale-Logo_small.png" alt="Logo Chicago Short Sale"></a>
      </div><!--headerLogoContent-->
     <div id="headerContent"> 
     
