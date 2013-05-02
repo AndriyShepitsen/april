@@ -119,11 +119,17 @@ text-shadow: #FFF 1px 1px 0px;
 
 
 /*=outerWharrer starts here*/
+html{
+
+}
 
 body{
 	color: #333;
 	background-color: $colorBody;
 	font: 14px  "Trebuchet MS", Arial, Helvetica, sans-serif;
+	@include background(image-url("map2.jpg"));
+	@include background-size(cover);
+
 }
 #outerWrapper {
 	@include box-sizing(content-box);
