@@ -111,7 +111,7 @@ text-shadow: #FFF 1px 1px 0px;
 	font-family: $anyFontFamily;
 	font-size: 16px;
 	font-weight: normal;
-	line-height:1.7;
+	line-height: 2em;
 	color: #222222;
 	min-height:940px;
 
@@ -125,6 +125,7 @@ body{
 	background-color: $colorBody;
 	font: 14px  "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
+
 #outerWrapper {
 	@include box-sizing(content-box);
 	margin: 0px auto;
@@ -242,7 +243,9 @@ body{
 
 #content {
 	@include contentFormatting;
-
+	h1{
+		font-size: 2em;
+	}
 
 	.disc{
 		margin-left: 25px;
@@ -264,48 +267,67 @@ body{
 
 
 #shortSaleRealtors{
-	line-height: 2em;
+	display:block;
+	line-height: 30px;
 	text-align: center;
+	word-spacing: 3px;
 }
 
+.welcome{
+	text-align: center;
+	font-size: 20px;
+}
+
+.homePageText{
+	font-family: 'Verdana', serif;
+	font-weight: bold;
+	margin-bottom: 20px;
+	font-size: 16px;
+}
+
+.weCanHelp{
+	@include label;
+	font-size: 24px;
+	margin-bottom: 20px;
+	line-height: 30px;
+}
+.label{
+	font-size: 24px;
+	margin-bottom: 20px;
+	line-height: 30px;
+}
 #areasServed {
 	font-size: 12px;
-	// line-height: 2em;
+	line-height: 30px;
 	text-align: justify;
 	@include panel(lighten(#D5E0EA, 5%) )
 }
 
-.welcome{
-		text-align: center;
-		font-size: 20px;
-
-}
-.homePageText{
-font-family: 'Verdana', serif;
-}
 
 .avoidForeclosure{
 	font-family: 'Playfair Display SC', serif;
-	// text-align: center;
+	display:block;
 	line-height: 2em;
 	font-size: 20px;
 	text-transform: uppercase;
-	word-spacing: 3px;
+	word-spacing: 4px;
 
 }
 .callUsHome {
-  @include alert-base;
-  @include alert-style(lighten($primary-color, 40%));
-  text-align:center;
-  font-size: 25px;
-  color: lighten(#C60F13, 10%);
-  word-spacing: 4px;
-  // text-shadow: lighten(#C60F13, 20%) 1px 1px 0px;
+	@include alert-base;
+	@include alert-style(lighten($primary-color, 40%));
+	text-align:center;
+	font-size: 25px;
+	color: lighten(#C60F13, 10%);
+	word-spacing: 4px;
 
 }
 .usBanks{
 	width:407px;
 	margin: 0 auto;
+	h3{
+		text-align: center;
+	}
 }
 
 /*==========  vw-Debt_Relief_Act_2007 starts here  ==========*/
