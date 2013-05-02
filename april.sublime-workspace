@@ -5,15 +5,21 @@
 		[
 			[
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"incl",
 				"include"
 =======
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 				"ligh",
 				"lighten	lighten"
 			],
 			[
 				"padd",
 				"padding"
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 			],
 			[
@@ -513,6 +519,7 @@
 	"buffers":
 	[
 <<<<<<< HEAD
+<<<<<<< HEAD
 		{
 			"file": "application/modules/Short_Sale_Chicago/views/vw-Short_Sale_Chicago.php",
 			"settings":
@@ -553,6 +560,8 @@
 				"line_ending": "Windows"
 			}
 		}
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 	],
@@ -666,6 +675,7 @@
 	[
 		"/C/xampp/htdocs/april/sass/screen.scss",
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"/C/xampp/htdocs/april/application/modules/Information_Sellers/controllers/Information_Sellers.php",
 		"/C/xampp/htdocs/april/application/modules/template/views/menu.php",
 		"/C/xampp/htdocs/april/application/modules/Information_Sellers/controllers/Foreclosure.php",
@@ -675,6 +685,8 @@
 		"/C/xampp/htdocs/april/application/modules/Information_Buyers/controllers/Foreclosure2.php",
 		"/C/xampp/htdocs/april/.htaccess",
 =======
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_Terms.php",
 		"/C/xampp/htdocs/april/application/modules/About_Us/views/vw-About_Us.php",
 		"/C/xampp/htdocs/april/application/modules/Short_Sale_Chicago/views/vw-Short_Sale_Chicago.php",
@@ -686,6 +698,9 @@
 		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Closing.php",
 		"/C/xampp/htdocs/april/application/modules/About_Us/controllers/About_Us.php",
 		"/C/xampp/htdocs/april/application/helpers/index.html",
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 		"/C/xampp/htdocs/april/index.php",
 		"/C/xampp/htdocs/april/application/modules/Contact_Us/controllers/Contact_Us.php",
@@ -709,6 +724,10 @@
 		"/C/xampp/htdocs/april/application/modules/FAQ/views/vw-FAQ.php",
 		"/C/xampp/htdocs/april/application/modules/Contact_Us/views/vw-Contact_Us.php",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+		"/C/xampp/htdocs/april/april.sublime-workspace",
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 		"/C/xampp/htdocs/april/april.sublime-workspace",
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
@@ -809,6 +828,9 @@
 		"/C/xampp/htdocs/q/application/controllers/client.php",
 		"/c/users/eattha~1/appdata/local/temp/sublime-svn-1366491908/SVN",
 		"/C/xampp/htdocs/q/application/controllers/upload.php"
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 	],
 	"find":
@@ -834,6 +856,7 @@
 		"find_history":
 		[
 <<<<<<< HEAD
+<<<<<<< HEAD
 			"Information_for_Sellers",
 			"headerPhoneNumberStyle",
 			"headerPhoneNumber",
@@ -842,6 +865,8 @@
 			" $system",
 			" $system_folder",
 =======
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 			"content",
 			"panel",
 			"nav",
@@ -863,6 +888,9 @@
 			"headerContentTop",
 			"content",
 			"companyNameStyle",
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 			"California",
 			"Shudnow",
@@ -996,6 +1024,7 @@
 			"selected": 4,
 			"sheets":
 			[
+<<<<<<< HEAD
 <<<<<<< HEAD
 				{
 					"buffer": 0,
@@ -1811,11 +1840,16 @@
 					"type": "text"
 				}
 =======
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 			]
 		},
 		{
 			"sheets":
 			[
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 			]
 		}
@@ -1838,13 +1872,19 @@
 				1,
 				1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 			],
 			[
 				1,
 				0,
 				2,
 				1
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 			]
 		],
@@ -1852,6 +1892,10 @@
 		[
 			0.0,
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+			0.513020833334,
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 			0.513020833334,
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
@@ -1904,12 +1948,7 @@
 		[
 			[
 <<<<<<< HEAD
-				"",
-				".htaccess"
-			],
-			[
-				"home",
-				"system/helpers/form_helper.php"
+<<<<<<< HEAD
 =======
 				"vwourp",
 				"application/modules/Our_Partners/views/vw-Our_Partners.php"
@@ -1921,6 +1960,67 @@
 			[
 				"scr",
 				"sass/screen.scss"
+			],
+			[
+				"vwshoter",
+				"application/modules/Information_for_Sellers/views/vw-Short_Sale_Terms.php"
+			],
+			[
+				"vwshv",
+				"application/modules/Information_for_Sellers/views/vw-Short_Sale_vs_Forecloser.php"
+			],
+			[
+				"vwabout",
+				"application/modules/About_Us/views/vw-About_Us.php"
+			],
+			[
+				"abu",
+				"application/modules/About_Us/controllers/About_Us.php"
+			],
+			[
+				"scree",
+				"stylesheets/screen.css"
+			],
+			[
+				"scre",
+				"stylesheets/screen.css"
+			],
+			[
+				"clo",
+				"application/modules/Information_for_Buyers/views/vw-Closing.php"
+			],
+			[
+				"screen",
+				"stylesheets/screen.css"
+			],
+			[
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+				"",
+				"application/modules/template/views/vw-template.php"
+			],
+			[
+<<<<<<< HEAD
+				"home",
+				"system/helpers/form_helper.php"
+=======
+				"vwourp",
+				"application/modules/Our_Partners/views/vw-Our_Partners.php"
+			],
+			[
+				"vwshort",
+				"application/modules/Short_Sale_Chicago/views/vw-Short_Sale_Chicago.php"
+=======
+				"php",
+				"application/helpers/index.html"
+			],
+			[
+				"vwabo",
+				"application/modules/About_Us/views/vw-About_Us.php"
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+			],
+			[
+				"conta",
+				"application/modules/Contact_Us/controllers/Contact_Us.php"
 			],
 			[
 				"vwshoter",
@@ -2219,7 +2319,11 @@
 	"show_tabs": true,
 	"side_bar_visible": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"side_bar_width": 435.0,
+=======
+	"side_bar_width": 292.0,
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 	"side_bar_width": 292.0,
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
