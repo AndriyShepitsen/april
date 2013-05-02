@@ -57,7 +57,7 @@
 
         <?php
 
-       echo anchor(base_url().'Information-For-Sellers/What-is-Shortsale', 'INFORMATION FOR SELLERS', array('class'=>'firstLevel')); 
+       echo anchor(base_url().'Information-Sellers/What-is-Shortsale', 'INFORMATION FOR SELLERS', array('class'=>'firstLevel')); 
        
        ?>
       
@@ -67,7 +67,7 @@
 
       <?php
 
-       echo anchor(base_url().'Information-For-Sellers/What-is-Shortsale', '- what is a short sale', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Sellers/What-is-Shortsale', '- what is a short sale', array('class'=>'secondLevel')); 
        
        ?>
         </li>
@@ -76,7 +76,7 @@
 
          <?php
 
-       echo anchor(base_url().'Information-For-Sellers/Short-Sale-Process', '- short sale process', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Sellers/Short-Sale-Process', '- short sale process', array('class'=>'secondLevel')); 
        
        ?>
         </li>
@@ -85,7 +85,7 @@
 
          <?php
 
-       echo anchor(base_url().'Information-For-Sellers/Short-Sale-Terms', '- short sale terms', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Sellers/Short-Sale-Terms', '- short sale terms', array('class'=>'secondLevel')); 
        
        ?>
         </li>
@@ -94,7 +94,7 @@
 
          <?php
 
-       echo anchor(base_url().'Information-For-Sellers/Short-Sale-vs-Foreclosure', '- short sale vs foreclosure', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Sellers/Short-Sale-vs-Foreclosure', '- short sale vs foreclosure', array('class'=>'secondLevel')); 
        
        ?>
         </li>
@@ -103,7 +103,7 @@
 
          <?php
 
-       echo anchor(base_url().'Information-For-Sellers/Seller-Benefits', '- Seller Benefits', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Sellers/Seller-Benefits', '- Seller Benefits', array('class'=>'secondLevel')); 
        
        ?>
         </li>
@@ -111,7 +111,7 @@
            <li>
          <?php
 
-       echo anchor(base_url().'Information-For-Sellers/Choosing-Right-Realtor', '- choosing a right realtor', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Sellers/Choosing-Right-Realtor', '- choosing a right realtor', array('class'=>'secondLevel')); 
        
        ?>
         </li>
@@ -119,7 +119,7 @@
          <li>
          <?php
 
-       echo anchor(base_url().'Information-For-Sellers/Deed-in-Lieu', '- deed in lieu', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Sellers/Deed-in-Lieu', '- deed in lieu', array('class'=>'secondLevel')); 
        
        ?>
         </li>
@@ -127,7 +127,7 @@
         <li>
          <?php
 
-       echo anchor(base_url().'Information-For-Sellers/Debt-Relief-Act-2007', '- Debt Relief Act of 2007', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Sellers/Debt-Relief-Act-2007', '- Debt Relief Act of 2007', array('class'=>'secondLevel')); 
        
        ?>
         </li>
@@ -135,7 +135,7 @@
       <li>
      <?php
         
-        echo anchor(base_url().'Information-For-Buyers/Short-Sale-for-Buyer', 'INFORMATION FOR BUYERS', array('class'=>'firstLevel')); 
+        echo anchor(base_url().'Information-Buyers/Short-Sale-Buyer-Adviser', 'INFORMATION FOR BUYERS', array('class'=>'firstLevel')); 
 
       ?>  
       </li>
@@ -144,7 +144,7 @@
       <li>
          <?php
 
-       echo anchor(base_url().'Information-For-Buyers/Short-Sale-for-Buyer', '- short sale for a buyer', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Buyers/Short-Sale-Buyer-Adviser', '- short sale for a buyer', array('class'=>'secondLevel')); 
        
        ?>
         </li>
@@ -152,7 +152,7 @@
          <li>
          <?php
 
-       echo anchor(base_url().'Information-For-Buyers/Things-To-Remember', '- things to remember', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Buyers/Things-To-Remember', '- things to remember', array('class'=>'secondLevel')); 
        
        ?>
         </li>
@@ -160,7 +160,7 @@
         <li>
          <?php
 
-       echo anchor(base_url().'Information-For-Buyers/Finance-Mortgage', '- finance/mortgage', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Buyers/Finance-Mortgage', '- finance/mortgage', array('class'=>'secondLevel')); 
        
        ?>
         </li>
@@ -168,7 +168,7 @@
         <li>
          <?php
 
-       echo anchor(base_url().'Information-For-Buyers/House-Hunting', '- house hunting', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Buyers/House-Hunting', '- house hunting', array('class'=>'secondLevel')); 
        
        ?>
         </li>
@@ -176,7 +176,7 @@
          <li>
          <?php
 
-       echo anchor(base_url().'Information-For-Buyers/Closing', '- closing', array('class'=>'secondLevel')); 
+       echo anchor(base_url().'Information-Buyers/Closing', '- closing', array('class'=>'secondLevel')); 
        
        ?>
         </li>
