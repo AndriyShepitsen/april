@@ -124,6 +124,9 @@ body{
 	color: #333;
 	background-color: $colorBody;
 	font: 14px  "Trebuchet MS", Arial, Helvetica, sans-serif;
+	@include background(image-url("map2.jpg"));
+	@include background-size(cover);
+
 }
 
 #outerWrapper {
