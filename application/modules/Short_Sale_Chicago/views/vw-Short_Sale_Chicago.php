@@ -1,15 +1,17 @@
+
 <!-- //LOCATION: april/
 -->
     <div id="content">
    <section id="shortSaleRealtors"> 
-   	<h1>Short Sale Realtors</h1>
-    <p>RE/MAX Short Sale Chicago has the knowledge, experience and expertise to guide homeowners in a pre-foreclosure situation and help choose if a Short Sale is the best choice for you. </p>
+   	<h2>Short Sale Realtors</h2>
+    <hr/>
+    <p>RE/MAX Short Sale Chicago has the knowledge, experience and expertise to guide homeowners in a pre-foreclosure situation and help choose if a Short Sale is the best choice for you. 
         
-    <p>One time approved, a Short Sale helps an owner avoid foreclosure, additional fees paid to the lender for costs associated with a foreclosure, long term affects to their credit document and far more.</p>
+    One time approved, a Short Sale helps an owner avoid foreclosure, additional fees paid to the lender for costs associated with a foreclosure, long term affects to their credit document and far more.</p>
        
     <p>Avoiding foreclosure is always the best choice. In case you know you can no longer afford your home and can not sell your home because it is worth less than you owe, a Short Sale is your best choice.</p>
         
-    <p id="callUsHome">Call us for a free, no obligation consultation: 312-544-00-64.</p>
+    <p class="callUsHome">Call us for a free no obligation consultation: 312-544-00-64.</p>
     </section>    `
 <hr>
     <div id="shortSaleNews">

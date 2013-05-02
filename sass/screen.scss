@@ -49,18 +49,18 @@ $colorRed: #E51937;
 
 
 @mixin companyNameStyle ($anyColor){
-font-family: 'Noto Serif', serif;
+	font-family: 'Noto Serif', serif;
 // 'Special Elite', cursive;
-	float: left;
-	width: $companyNameWidth;
-	font-size: 45px;
-	letter-spacing: 2px;
-	color: $anyColor;
-	font-weight: bold;
-	text-align: right;
-	padding-right: 40px;
-	line-height: 1.2em;
-	text-shadow: #FFF 1px 1px 0px;
+float: left;
+width: $companyNameWidth;
+font-size: 45px;
+letter-spacing: 2px;
+color: $anyColor;
+font-weight: bold;
+text-align: right;
+padding-right: 40px;
+line-height: 1.2em;
+text-shadow: #FFF 1px 1px 0px;
 }
 
 @mixin headerPhoneNumberStyle{
@@ -105,7 +105,7 @@ font-family: 'Noto Serif', serif;
 	border-top-left-radius: 70px;
 	moz-border-top-left-radius: 70px;
 	webkit-border-top-left-radius: 70px;
-	padding: 30px 20px 20px 25px;
+	padding: 20px 20px 20px 25px;
 	position: relative;
 	letter-spacing: .2;
 	font-family: $anyFontFamily;
@@ -116,6 +116,7 @@ font-family: 'Noto Serif', serif;
 	min-height:940px;
 
 }
+
 
 /*=outerWharrer starts here*/
 
@@ -255,18 +256,27 @@ body{
 		margin-left: 25px;
 
 	}
-.shortSaleVSForeclosure{
-	margin-left: 25px;
-
-}
-	ol{
-	margin-left: 25px;
-	.square{
-
+	.shortSaleVSForeclosure{
 		margin-left: 25px;
+
 	}
+	ol{
+		margin-left: 25px;
+		.square{
+
+			margin-left: 25px;
+		}
 	}
 }
+.callUsHome {
+  @include alert-base;
+  @include alert-style(lighten($primary-color, 40%));
+  text-align:center;
+  font-size: 25px;
+  color: $bg;
+  text-shadow: #FFF 1px 1px 2px;
+}
+
 /*==========  vw-Debt_Relief_Act_2007 starts here  ==========*/
 
 
@@ -408,9 +418,9 @@ body{
 $main-font-size:  1em;
 
 .error {
-color:red;
-font-weight: bold;
-margin-left: 20px;
+	color:red;
+	font-weight: bold;
+	margin-left: 20px;
 
 }
 
