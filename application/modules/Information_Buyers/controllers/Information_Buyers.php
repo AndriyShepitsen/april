@@ -40,7 +40,6 @@ class Information_Buyers extends MX_Controller {
 		$data['module'] = 'Information_Buyers';
 		$data['view'] = 'vw-Finance_Mortgage';
 		$data['test'] = 'Hi to your, Mom';
-
 		$this->load->module('template');
 		$this->template->index($data);
 		

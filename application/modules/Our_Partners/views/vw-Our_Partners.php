@@ -4,6 +4,7 @@
  <div id="content">
 
 <h2>Our Partners</h2> 
+<hr/>
    <h4 > We have worked with many banks, including:</h4>
 
 <h5 class="subheader">AIG</h5>

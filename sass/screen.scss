@@ -8,6 +8,9 @@
 @charset "utf-8";
 
 @import "foundation/foundation-global", "foundation/components/global", "foundation/components/buttons", "foundation/components/inline-lists";
+@import "icon/*.png";
+@include all-icon-sprites;
+
 //LOCATION: april 
 
 
@@ -29,12 +32,14 @@
 
 /*==========  Variables  ==========*/
 $siteWigth:960px;
-$leftColumnWidth:240px;
+$leftColumnWidth:222px;
+$companyNameWidth:288px;
 $colorBody:#D5E0EA;
 $colorWrapper:#A1BAD0;
 $companyNameColor: #0055A5;
 $primary-color: #396c95;
 $bg:lighten(#396c95, 10%);
+$colorRed: #E51937;
 /*==========  Functions  ==========*/
 
 @function contentColumnWidth($siteWigth, $leftColumnWidth) {
@@ -44,21 +49,32 @@ $bg:lighten(#396c95, 10%);
 
 
 @mixin companyNameStyle ($anyColor){
-font-family: 'Special Elite', cursive;
-	float: left;
-	width: 268px;
-	font-size: 44px;
-	color: $anyColor;
-	font-weight: bold;
-	text-align: right;
-	padding-right: 18px;
-	padding-top: 10px;
-	margin-left: 12px;
-	line-height: 1.2em;
-	text-shadow: #FFF 1px 1px 0px;
+	font-family: 'Noto Serif', serif;
+// 'Special Elite', cursive;
+float: left;
+width: $companyNameWidth;
+font-size: 45px;
+letter-spacing: 2px;
+color: $anyColor;
+font-weight: bold;
+text-align: right;
+padding-right: 40px;
+line-height: 1.2em;
+text-shadow: #FFF 1px 1px 0px;
 }
 
-
+@mixin headerPhoneNumberStyle{
+	float: left;
+	width: 575px;
+	color: $primary-color;
+	margin-left: 15px;
+	font-weight: bold;
+	font-size:1.9em; 
+	letter-spacing: 2px;
+	text-shadow: lighten($primary-color, 10%) 1px 1px 0px;
+	position:relative;
+	top:-10px;
+}
 
 @mixin firstLevelButton($anyColor){
 	@include button($full-width:true);
@@ -89,17 +105,18 @@ font-family: 'Special Elite', cursive;
 	border-top-left-radius: 70px;
 	moz-border-top-left-radius: 70px;
 	webkit-border-top-left-radius: 70px;
-	padding: 30px 20px 20px 25px;
+	padding: 20px 20px 20px 25px;
 	position: relative;
 	letter-spacing: .2;
 	font-family: $anyFontFamily;
 	font-size: 16px;
 	font-weight: normal;
 	line-height:1.7;
-	color: #292929;
-	min-height:925px;
-	
+	color: #222222;
+	min-height:940px;
+
 }
+
 
 /*=outerWharrer starts here*/
 
@@ -113,7 +130,7 @@ body{
 	margin: 0px auto;
 	width: $siteWigth;
 	background-color: $colorWrapper;
-	margin-bottom: -51px;
+	margin-bottom: -41px;
 }
 
 /*=header starts here*/
@@ -124,20 +141,37 @@ body{
 #headerContent{
 	overflow: auto;
 	width: contentColumnWidth;
-	float: left;
+	float: right;
+	margin-right: 5px;
 }
 #headerLogoContent{
 	width: $leftColumnWidth;
 	float: left;
 	position: relative;
 	display: block;
+	margin-top: 5px;
 }
 #headerContentTop{
 	overflow: auto;
+	width: 100%;
+	position: relative;
+
+}
+#companyName{
+	@include companyNameStyle ($companyNameColor);
+}
+
+#headerPhoneNumber {
+	@include headerPhoneNumberStyle;
+}
+#headerPicture{
+	float: right;
+	width: 435px;
+	margin-top: 5px;
+	// box-shadow: black 1px 1px 0px;
 }
 #headerContentBottom{
-	overflow: auto;
-	width:100%;
+	@extend headerContentTop;
 	.icon{
 		width:24px;
 		float:right;
@@ -150,13 +184,12 @@ body{
 	float: left;
 	width: 24px;
 	padding-top: 5px;
+	display: block;
 }
 #headerLetterImg {
 	@extend #headerHomeImg;
 
 	vertical-align: bottom;
-	display: block;
-	
 	padding-right: 2px;
 	padding-left: 10px;
 }
@@ -171,23 +204,6 @@ body{
 	letter-spacing: 2px;
 }
 
-
-
-#companyName{
-	@include companyNameStyle ($companyNameColor);
-}
-#headerPicture{
-	float: left;
-	width: 437px;
-	box-shadow: black 1px 1px 0px;
-}
-#headerPicture a img{
-	/* [disabled]border: 1px solid #0055A5; */
-}
-#headerContentBottom{
-	overflow:auto;
-}
-
 #headerPhoneImg {
 	float: left;
 	width: 24px;
@@ -196,8 +212,7 @@ body{
 	padding-top: 5px;
 }
 
-@import "icon/*.png";
-@include all-icon-sprites;
+
 
 .icon-phone {
 	float: left;
@@ -214,7 +229,8 @@ body{
 	width: 100%;
 	overflow: auto;
 	position: relative;
-	top: -55px;
+	top: -45px;
+	padding-right:5px;
 }
 /*=sideBar starts here*/
 #sideBar {
@@ -240,18 +256,27 @@ body{
 		margin-left: 25px;
 
 	}
-
-	ol{
-
 	.shortSaleVSForeclosure{
 		margin-left: 25px;
-	}
-	.square{
 
-		margin-left: 25px;
 	}
+	ol{
+		margin-left: 25px;
+		.square{
+
+			margin-left: 25px;
+		}
 	}
 }
+.callUsHome {
+  @include alert-base;
+  @include alert-style(lighten($primary-color, 40%));
+  text-align:center;
+  font-size: 25px;
+  color: $bg;
+  text-shadow: #FFF 1px 1px 2px;
+}
+
 /*==========  vw-Debt_Relief_Act_2007 starts here  ==========*/
 
 
@@ -393,9 +418,9 @@ body{
 $main-font-size:  1em;
 
 .error {
-color:red;
-font-weight: bold;
-margin-left: 20px;
+	color:red;
+	font-weight: bold;
+	margin-left: 20px;
 
 }
 
@@ -416,7 +441,7 @@ margin-left: 20px;
 	padding: 40px 20px 100px 25px;
 	position: relative;
 	font-family: 'Sanchez', serif;
-	color: #292929;
+	color: #222222;
 
 	textarea{
 		height: 300px;

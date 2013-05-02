@@ -82,7 +82,7 @@
 <dd>IRS Form 1099-c is issued by those canceling all of part of a debt to the person receiving debt relief.
 <br/>
 Note: The cancelled debt may not need to be reported as income. For more on a 1099-c, click here.</dd>
-<br/>
+
 <dt>Trustee (Foreclosure Trustee)</dt>
 
 <dd>A Foreclosure Trustee is appointed by the mortgage company when a mortgage reaches the default status for the purpose of processing the foreclosure.</dd>
