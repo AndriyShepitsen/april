@@ -12,7 +12,7 @@ sss-->
 
   <link href="<?php echo base_url();?>stylesheets/normalize.css" media="screen, projector, print" rel="stylesheet" type="text/css" />
   <link href="<?php echo base_url();?>stylesheets/app.css" media="screen, projector, print" rel="stylesheet" type="text/css" />
-
+<link href='http://fonts.googleapis.com/css?family=Playfair+Display+SC' rel='stylesheet' type='text/css'/>
 
 <link href="<?php echo base_url();?>stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
