@@ -273,8 +273,8 @@ body{
   @include alert-style(lighten($primary-color, 40%));
   text-align:center;
   font-size: 25px;
-  color: $bg;
-  text-shadow: #FFF 1px 1px 2px;
+  color: lighten(#C60F13, 10%);
+  text-shadow: lighten(#C60F13, 20%) 1px 1px 0px;
 }
 
 /*==========  vw-Debt_Relief_Act_2007 starts here  ==========*/

@@ -12,6 +12,7 @@ _ReSharper*
 *.egg
 .gitignore
 12.htaccess
+*.pgc
 # ReSharper is a .NET coding add-in
 bin
 *.obj
@@ -91,7 +92,7 @@ TestResults
 april.sublime-workspace
 DocProject/buildhelp/
 DocProject/Help/html
-*.pgc
+license.txt
 ClientBin
 *.meta
 .tox

@@ -11,7 +11,7 @@
        
     <p>Avoiding foreclosure is always the best choice. In case you know you can no longer afford your home and can not sell your home because it is worth less than you owe, a Short Sale is your best choice.</p>
         
-    <p class="callUsHome">Call us for a free no obligation consultation: 312-544-00-64.</p>
+    <p class="callUsHome">Call us for a free no obligation consultation: 312-544-00-64</p>
     </section>    `
 <hr>
     <div id="shortSaleNews">
