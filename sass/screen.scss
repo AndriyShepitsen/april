@@ -66,14 +66,15 @@ text-shadow: #FFF 1px 1px 0px;
 @mixin headerPhoneNumberStyle{
 	float: left;
 	width: 575px;
-	color: $primary-color;
 	margin-left: 15px;
-	font-weight: bold;
-	font-size:1.9em; 
-	letter-spacing: 2px;
-	text-shadow: lighten($primary-color, 10%) 1px 1px 0px;
 	position:relative;
 	top:-10px;
+	font-size:2.1em; 
+	font-weight: bold;
+	letter-spacing: 2px;
+	letter-spacing: 2px;
+	color: #FFF;
+	text-shadow: lighten($primary-color, 10%) 1px 1px 0px;
 }
 
 @mixin firstLevelButton($anyColor){
@@ -107,7 +108,6 @@ text-shadow: #FFF 1px 1px 0px;
 	webkit-border-top-left-radius: 70px;
 	padding: 20px 20px 20px 25px;
 	position: relative;
-	letter-spacing: .2;
 	font-family: $anyFontFamily;
 	font-size: 16px;
 	font-weight: normal;
@@ -130,7 +130,7 @@ body{
 	margin: 0px auto;
 	width: $siteWigth;
 	background-color: $colorWrapper;
-	margin-bottom: -41px;
+	margin-bottom: -36px;
 }
 
 /*=header starts here*/
@@ -161,9 +161,7 @@ body{
 	@include companyNameStyle ($companyNameColor);
 }
 
-#headerPhoneNumber {
-	@include headerPhoneNumberStyle;
-}
+
 #headerPicture{
 	float: right;
 	width: 435px;
@@ -193,15 +191,8 @@ body{
 	padding-right: 2px;
 	padding-left: 10px;
 }
-
 #headerPhoneNumber {
-	float: left;
-	width: 575px;
-	color: $companyNameColor;
-	margin-left: 15px;
-	font-weight: bold;
-	font-size:1.9em; 
-	letter-spacing: 2px;
+	@include headerPhoneNumberStyle;
 }
 
 #headerPhoneImg {
@@ -229,7 +220,7 @@ body{
 	width: 100%;
 	overflow: auto;
 	position: relative;
-	top: -45px;
+	top: -40px;
 	padding-right:5px;
 }
 /*=sideBar starts here*/
@@ -252,6 +243,7 @@ body{
 #content {
 	@include contentFormatting;
 
+
 	.disc{
 		margin-left: 25px;
 
@@ -268,55 +260,56 @@ body{
 		}
 	}
 }
+/*==========  =Short_Sale_Chicago  ==========*/
+
+
+#shortSaleRealtors{
+	line-height: 2em;
+	text-align: center;
+}
+
+#areasServed {
+	font-size: 12px;
+	// line-height: 2em;
+	text-align: justify;
+	@include panel(lighten(#D5E0EA, 5%) )
+}
+
+.welcome{
+		text-align: center;
+		font-size: 20px;
+
+}
+.homePageText{
+font-family: 'Verdana', serif;
+}
+
+.avoidForeclosure{
+	font-family: 'Playfair Display SC', serif;
+	// text-align: center;
+	line-height: 2em;
+	font-size: 20px;
+	text-transform: uppercase;
+	word-spacing: 3px;
+
+}
 .callUsHome {
   @include alert-base;
   @include alert-style(lighten($primary-color, 40%));
   text-align:center;
   font-size: 25px;
   color: lighten(#C60F13, 10%);
-  text-shadow: lighten(#C60F13, 20%) 1px 1px 0px;
+  word-spacing: 4px;
+  // text-shadow: lighten(#C60F13, 20%) 1px 1px 0px;
+
+}
+.usBanks{
+	width:407px;
+	margin: 0 auto;
 }
 
 /*==========  vw-Debt_Relief_Act_2007 starts here  ==========*/
 
-
-#shortSaleRealtors h1{
-	padding-bottom: 15px;
-	font-size: 28px;
-	font-weight: bold;
-}
-#shortSaleRealtors{
-	line-height: 1.7em;
-	text-align: justify;
-}
-#shortSaleNews h1{
-	padding-bottom: 10px;
-	padding-top: 10px;
-	color: #333;
-	font-size: 28px;
-	font-weight: bolder;
-}
-#shortSaleNews h2{
-	padding-bottom: 10px;
-	padding-top: 10px;
-	font-size: 2em;
-}
-
-#shortSaleNews img {
-	display: block;
-	margin: 20px auto;
-}
-
-
-// #usBanks{
-// 	background-image:
-// }
-#areasServed {
-	font-size: 12px;
-	line-height: 2em;
-	text-align: justify;
-	@include panel(lighten(#D5E0EA, 5%) )
-}
 
 /*=footer starts here*/
 #footer {
