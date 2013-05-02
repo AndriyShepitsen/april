@@ -49,7 +49,7 @@ class Contact_Us extends MX_Controller {
 	 	$cellPhone = $this->input->post('cPh');
 	 	$subject = $this->input->post('subject');
 	 	$message = $this->input->post('mTextArea');
-
+	 	
 
 	 	$config = array();
 
