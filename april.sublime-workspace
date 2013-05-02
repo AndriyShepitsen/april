@@ -7,9 +7,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"incl",
 				"include"
 =======
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
@@ -22,6 +25,9 @@
 				"padding"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
@@ -527,6 +533,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		{
 			"file": "application/modules/Short_Sale_Chicago/views/vw-Short_Sale_Chicago.php",
 			"settings":
@@ -567,6 +574,8 @@
 				"line_ending": "Windows"
 			}
 		}
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
@@ -686,6 +695,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"/C/xampp/htdocs/april/application/modules/Information_Sellers/controllers/Information_Sellers.php",
 		"/C/xampp/htdocs/april/application/modules/template/views/menu.php",
 		"/C/xampp/htdocs/april/application/modules/Information_Sellers/controllers/Foreclosure.php",
@@ -695,6 +705,8 @@
 		"/C/xampp/htdocs/april/application/modules/Information_Buyers/controllers/Foreclosure2.php",
 		"/C/xampp/htdocs/april/.htaccess",
 =======
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
@@ -712,6 +724,9 @@
 		"/C/xampp/htdocs/april/application/helpers/index.html",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
@@ -741,6 +756,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+		"/C/xampp/htdocs/april/april.sublime-workspace",
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 		"/C/xampp/htdocs/april/april.sublime-workspace",
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
@@ -849,6 +868,9 @@
 		"/C/xampp/htdocs/q/application/controllers/upload.php"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
@@ -880,6 +902,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			"Information_for_Sellers",
 			"headerPhoneNumberStyle",
 			"headerPhoneNumber",
@@ -888,6 +911,8 @@
 			" $system",
 			" $system_folder",
 =======
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
@@ -915,6 +940,9 @@
 			"companyNameStyle",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
@@ -1052,6 +1080,7 @@
 			"selected": 4,
 			"sheets":
 			[
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1873,6 +1902,8 @@
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 			]
 		},
 		{
@@ -1880,6 +1911,9 @@
 			[
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
@@ -1908,7 +1942,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
@@ -1921,6 +1958,9 @@
 				1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
@@ -1934,6 +1974,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+			0.513020833334,
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 			0.513020833334,
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
@@ -1994,7 +2038,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 				"vwourp",
@@ -2042,6 +2089,9 @@
 			],
 			[
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
@@ -2049,6 +2099,7 @@
 				"application/modules/template/views/vw-template.php"
 			],
 			[
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 				"home",
@@ -2125,6 +2176,16 @@
 			],
 			[
 =======
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
+=======
+				"php",
+				"application/helpers/index.html"
+			],
+			[
+				"vwabo",
+				"application/modules/About_Us/views/vw-About_Us.php"
+			],
+			[
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 				"conta",
 				"application/modules/Contact_Us/controllers/Contact_Us.php"
@@ -2379,7 +2440,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"side_bar_width": 435.0,
+=======
+	"side_bar_width": 292.0,
+>>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 =======
 	"side_bar_width": 292.0,
 >>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
