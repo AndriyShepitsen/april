@@ -2,7 +2,7 @@
 -->
 
     <div id="content">
-<h2>Things to Remember</h2>
+<h1>Things to Remember</h1>
 <hr/>
 
 

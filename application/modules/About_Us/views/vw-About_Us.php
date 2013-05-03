@@ -3,7 +3,7 @@
 
 
 <div id="content">
-	<h2>About US</h2>
+	<h1>About US</h1>
 	
 	<hr/>
 <p>In July 2011 our company purchased RE/MAX 1-st Class in Skokie, IL a real estate brokerage firm. 
@@ -16,7 +16,8 @@ Prior to purchasing RE/MAX 1-st Class we were associated with M-G-M Realty. Inc.
 <p>Throughout our career, we have participated in the sales of troubled  real estate assets, Investment Syndication,  Various Shopping Center Developments and Management, Condominimum development and conversions, Sales of investment and Commercial Properties, and Construction of single family homes, townhouses and duplexes.</p>
 <p>The following characteristics place out team a step above other Professional Realtors:</p>
 <ul class="disc">
-      <li>Excellent knowledge of both marketing and appraisals- Extensive national and international client database</li>
+      <li>Excellent knowledge of both marketing and appraisals</li>
+      <li>Extensive national and international client database</li>
       <li>Network connections with over 150 brokers in the area</li>
       <li>Knowledge of local building requirements and county codes</li>
       <li>Association with construction and trade professionals</li>

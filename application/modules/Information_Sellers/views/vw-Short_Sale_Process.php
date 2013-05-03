@@ -2,7 +2,7 @@
 -->
 
   <div id="content">
-<h2>Short Sale Process</h2> 
+<h1>Short Sale Process</h1> 
     <hr/>
 <p>Most creditors require the borrower to prove they have an economic or financial hardship preventing them from being able to pay the deficiency.</p>
 

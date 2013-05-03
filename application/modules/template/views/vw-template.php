@@ -86,10 +86,10 @@ var menuSelect = function (childNum) {
             <img src="<?php echo base_url();?>_img/short-sale-chicago-twitter.png" alt="short-sale-chicago-twitter">
             <img src="<?php echo base_url();?>_img/short-sale-chicago-you-tube.png"  alt="short-sale-chicago-youtube">
 			</div><!--connectWithUs-->             
-             
+             <div id="footerAddress">4023 W. Church St<br>Skokie, IL 60076
+      </div>
             <div id="footerPhoneNumbers">Office: (312)544-0064 Fax: (847)674-0411</div> <!--footerPhoneNumbers-->
-			<div id="footerAddress">4023 W. Church St<br>Skokie, IL 60076
-			</div><!--footerAddress-->
+			<!--footerAddress-->
             </div><!--footerContentTop-->
             
             <div id="footerContentBottom">

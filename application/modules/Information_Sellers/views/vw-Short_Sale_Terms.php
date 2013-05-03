@@ -2,7 +2,7 @@
 -->
 
   <div id="content">
-<h2>Short Sale Terms</h2> 
+<h1>Short Sale Terms</h1> 
     <hr/>
 <dl>
 <dt>Advertising (Publishing)</dt>

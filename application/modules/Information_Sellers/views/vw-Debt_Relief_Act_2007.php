@@ -1,17 +1,17 @@
 
-<!-- //LOCATION: april/Information-For-Sellers/Debt-Relief-Act-2007
+<!-- //LOCATION: april/Information-Sellers/Debt-Relief-Act-2007
 -->
 
   <div id="content">
-<h2>The Mortgage Debt Relief Act of 2007</h2> 
+<h1>The Mortgage Debt Relief Act of 2007</h1> 
 <hr/>
-<p>If you owe a debt to someone else and they cancel or forgive that debt, the canceled amount may be taxable.</p>
+<p>If you owe a debt to someone else and they cancel or forgive that debt, the canceled amount may be taxable.
 
-<p>The Mortgage Debt Relief Act of 2007 generally allows taxpayers to exclude income from the discharge of debt on their principal residence. Debt reduced through mortgage restructuring, as well as mortgage debt forgiven in connection with a foreclosure, qualifies for the relief.</p>
+The Mortgage Debt Relief Act of 2007 generally allows taxpayers to exclude income from the discharge of debt on their principal residence. Debt reduced through mortgage restructuring, as well as mortgage debt forgiven in connection with a foreclosure, qualifies for the relief.</p>
 
-<p>This provision applies to debt forgiven in calendar years 2007 through 2012. Up to $2 million of forgiven debt is eligible for this exclusion ($1 million if married filing separately). The exclusion does not apply if the discharge is due to services performed for the lender or any other reason not directly related to a decline in the home’s value or the taxpayer’s financial condition.</p>
+<p>This provision applies to debt forgiven in calendar years 2007 through 2012. Up to $2 million of forgiven debt is eligible for this exclusion ($1 million if married filing separately). The exclusion does not apply if the discharge is due to services performed for the lender or any other reason not directly related to a decline in the home’s value or the taxpayer’s financial condition.
 
-<p>More information, including detailed examples can be found in Publication 4681, Canceled Debts, Foreclosures, Repossessions, and Abandonments. Also see IRS news release IR-2008-17.</p>
+More information, including detailed examples can be found in Publication 4681, Canceled Debts, Foreclosures, Repossessions, and Abandonments. Also see IRS news release IR-2008-17.</p>
 
 <p>The following are the most commonly asked questions and answers about The Mortgage Forgiveness Debt Relief Act and debt cancellation:</p>
 

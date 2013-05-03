@@ -1,18 +1,18 @@
-<!-- //LOCATION: april/Information-For-Sellers/Short-Sale-vs-Foreclosure
+<!-- //LOCATION: april/Information-Sellers/Short-Sale-vs-Foreclosure
 -->
 
   <div id="content">
-<h2>Short Sale vs Foreclosure</h2> 
+<h1>Short Sale vs Foreclosure</h1> 
     <hr/>
 
 <p>As Investors and Buyers, coming to the aid of a distressed Seller is what we’re supposed to be highly skilled at. Depending on their situation, and the condition of the home, their options may become more and more limited. It may come down to not what they want, but what options they have left.</p>
 
-<p>In the case of choosing a short sale over a foreclosure, typically, the answer seems to be obvious from the beginning. If there is more debt owed on the property than what it’s worth, or what the Buyer is willing to pay, clearly the debt needs to be negotiated down if they plan to sell.</p>
-<p>But, some Sellers may just want to capitulate and walk away. If it seems like a viable lead though, you may want to educate the homeowners on the pros and cons of the decision they’re considering.</p>
+<p>In the case of choosing a short sale over a foreclosure, typically, the answer seems to be obvious from the beginning. If there is more debt owed on the property than what it’s worth, or what the Buyer is willing to pay, clearly the debt needs to be negotiated down if they plan to sell.
+But, some Sellers may just want to capitulate and walk away. If it seems like a viable lead though, you may want to educate the homeowners on the pros and cons of the decision they’re considering.</p>
 
-<p>If they’re not motivated and uncooperative, save your breath. No amount of sensibility about the deal structure will engage an uninterested party, so make sure you’re qualifying the Seller just as hard as you’re qualifying the deal.</p>
+<p>If they’re not motivated and uncooperative, save your breath. No amount of sensibility about the deal structure will engage an uninterested party, so make sure you’re qualifying the Seller just as hard as you’re qualifying the deal.
 
-<p>If it’s a matter of needing to be educated to make a decision though, let’s explore when a short sale may be better for them over when it might be better for them to walk away. </p>
+If it’s a matter of needing to be educated to make a decision though, let’s explore when a short sale may be better for them over when it might be better for them to walk away. </p>
 
 <h4 class="subheader">Short Sale Pro’s for Homeowners</h4>
 <hr/>
@@ -43,9 +43,9 @@
 
 <h4 class="subheader">Buyers Perspective – they NEED you</h4>
 <hr/>
-<p>Now where does your value add come in as a cash buyer/investor? To some effect, it’s one of the most important parts of the transaction!</p>
+<p>Now where does your value add come in as a cash buyer/investor? To some effect, it’s one of the most important parts of the transaction!
 
-<p>You can let the Listing Agent and/or homeowner know (in fact, you may even want to create a Cover Letter for this to turn in with your Offers!)</p>
+You can let the Listing Agent and/or homeowner know (in fact, you may even want to create a Cover Letter for this to turn in with your Offers!)</p>
 <ol class="shortSaleVSForeclosure">
   <li>You are a serious cash buyer that is aware of the short sale process</li>
   <li>You wish to help make the process as easy on everyone as possible. You like being educated and would prefer to be communicated with on a weekly basis.</li>

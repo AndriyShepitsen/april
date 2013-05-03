@@ -16,7 +16,7 @@
             <p class="weCanHelp">We can help you to avoid foreclosure!</p>
 
 
-                <div class="avoidForeclosure"><p >In case you know you can no longer afford your home <br/>and can not sell your home because it is worth less than you owe, a Short Sale is your best choice.</p>
+                <div class="avoidForeclosure">In case you know you can no longer afford your home <br/>and can not sell your home because it is worth less than you owe, a Short Sale is your best choice.
         </div>
         
 
