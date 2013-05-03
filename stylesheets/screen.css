@@ -5906,10 +5906,10 @@ body {
   background-color: #d5e0ea;
   font: 14px "Trebuchet MS", Arial, Helvetica, sans-serif;
   background: url('../images/map2_20.png?1367592165');
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: 1420px, 783px;
+  -moz-background-size: 1420px, 783px;
+  -o-background-size: 1420px, 783px;
+  background-size: 1420px, 783px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003156}}
@@ -5978,7 +5978,7 @@ body {
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003206}}
 #headerContentBottom .icon-phone {
   float: left;
-  background: url('../images/icon-s15acc932ca.png?1367525893');
+  background: url('../images/icon-s15acc932ca.png?1367592768');
   float: left;
   width: 575px;
   margin-left: 15px;

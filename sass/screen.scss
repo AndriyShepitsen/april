@@ -149,7 +149,7 @@ body{
 	background-color: $colorBody;
 	font: 14px  "Trebuchet MS", Arial, Helvetica, sans-serif;
 	@include background(image-url("map2_20.png"));
-	@include background-size(cover);
+	@include background-size(1420px,783px);
 
 }
 
