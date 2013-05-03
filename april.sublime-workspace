@@ -4,6 +4,7 @@
 		"selected_items":
 		[
 			[
+<<<<<<< HEAD
 				"footerAdd",
 				"footerAddressFormat"
 			],
@@ -14,6 +15,10 @@
 			[
 				"padd",
 				"padding"
+=======
+				"incl",
+				"include"
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 			],
 			[
 				"chil",
@@ -476,6 +481,10 @@
 				"CI_Controller  (class)"
 			],
 			[
+				"padd",
+				"padding-left"
+			],
+			[
 				"n",
 				"navigationMenuNumbers"
 			],
@@ -511,6 +520,7 @@
 	},
 	"buffers":
 	[
+<<<<<<< HEAD
 		{
 			"file": "application/modules/template/views/vw-template.php",
 			"settings":
@@ -527,6 +537,8 @@
 				"line_ending": "Windows"
 			}
 		}
+=======
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 	],
 	"build_system": "",
 	"command_palette":
@@ -636,6 +648,7 @@
 	},
 	"file_history":
 	[
+<<<<<<< HEAD
 		"/C/xampp/htdocs/april/application/modules/Information_Sellers/views/vw-Choosing_Right_Rieltor.php",
 		"/C/xampp/htdocs/april/application/modules/Information_Sellers/views/vw-Debt_Relief_Act_2007.php",
 		"/C/xampp/htdocs/april/application/modules/Information_Sellers/views/vw-Deed_in_Lieu.php",
@@ -669,23 +682,58 @@
 		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_vs_Forecloser.php",
 		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Closing.php",
 		"/C/xampp/htdocs/april/application/helpers/index.html",
+=======
+		"/C/xampp/htdocs/april/sass/screen.scss",
+		"/C/xampp/htdocs/april/config.rb",
+		"/C/xampp/htdocs/april/sass/_app.scss",
+		"/C/xampp/htdocs/april/sass/_settings.scss",
+		"/C/xampp/htdocs/april/application/modules/Short_Sale_Chicago/views/vw-Short_Sale_Chicago.php",
+		"/C/xampp/htdocs/april/application/modules/template/views/vw-template.php",
+		"/C/xampp/htdocs/april/application/modules/template/views/menu.php",
+		"/C/xampp/htdocs/april/application/modules/Information_Sellers/controllers/Information_Sellers.php",
+		"/C/xampp/htdocs/april/application/modules/Information_Sellers/controllers/Foreclosure.php",
+		"/C/xampp/htdocs/april/application/modules/Information_Buyers/controllers/Information_Buyers.php",
+		"/C/xampp/htdocs/april/april.sublime-workspace",
+		"/C/xampp/htdocs/april/application/modules/Information_Buyers/views/vw-Short_Sale_General.php",
+		"/C/xampp/htdocs/april/application/modules/Information_Buyers/controllers/Foreclosure2.php",
+		"/C/xampp/htdocs/april/.htaccess",
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 		"/C/xampp/htdocs/april/index.php",
+		"/C/xampp/htdocs/april/application/modules/Foreclosure2/controllers/Foreclosure2.php",
+		"/C/xampp/htdocs/april/application/modules/Foreclosure2/controllers/Foreclosure.php",
+		"/C/xampp/htdocs/april/system/helpers/form_helper.php",
 		"/C/xampp/htdocs/april/application/modules/Contact_Us/controllers/Contact_Us.php",
 		"/C/xampp/htdocs/april/1.htaccess",
-		"/C/xampp/htdocs/april/.htaccess",
 		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-What_is_Shortsale.php",
 		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Choosing_Right_Rieltor.php",
 		"/C/xampp/htdocs/april/application/config/config.php",
 		"/C/xampp/htdocs/april/application/.htaccess",
+<<<<<<< HEAD
 		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Seller_Benefits.php",
+=======
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_Terms.php",
+		"/C/xampp/htdocs/april/application/modules/Foreclosure/views/vw-Forecloser_Facts.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Seller_Benefits.php",
+		"/C/xampp/htdocs/april/application/modules/About_Us/views/vw-About_Us.php",
+		"/C/xampp/htdocs/april/application/modules/Our_Partners/views/vw-Our_Partners.php",
+		"/C/xampp/htdocs/april/application/modules/Foreclosure/views/vw-Forecloser_Process.php",
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_Process.php",
+		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Short_Sale_vs_Forecloser.php",
 		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Deed_in_Lieu.php",
 		"/C/xampp/htdocs/april/application/modules/Information_for_Sellers/views/vw-Debt_Relief_Act_2007.php",
 		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Short_Sale_for_Buyer.php",
 		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Things_To_Remember.php",
 		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Finance_Mortgage.php",
 		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-House_Hunting.php",
+<<<<<<< HEAD
 		"/C/xampp/htdocs/april/april.sublime-workspace",
+=======
+		"/C/xampp/htdocs/april/application/modules/Information_for_Buyers/views/vw-Closing.php",
+		"/C/xampp/htdocs/april/application/modules/Our_Closed_Property/views/vw-Our_Closed_Property.php",
+		"/C/xampp/htdocs/april/application/modules/FAQ/views/vw-FAQ.php",
+		"/C/xampp/htdocs/april/application/modules/Contact_Us/views/vw-Contact_Us.php",
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/xampp/htdocs/april/application/modules/Short_Sale_Chicago/controllers/Short_Sale_Chicago.php",
 		"/C/xampp/htdocs/april/application/config/routes.php",
@@ -694,15 +742,15 @@
 		"/C/xampp/htdocs/april/passwords.txt",
 		"/C/xampp/htdocs/april/system/core/Config.php",
 		"/C/xampp/htdocs/april/sftp-config.json",
+		"/C/xampp/htdocs/april/stylesheets/screen.css",
 		"/C/xampp/htdocs/april/application/modules/template/controllers/template.php",
 		"/C/xampp/htdocs/april/application/modules/Contact_Us/views/vw-Thank-you.php",
 		"/C/xampp/htdocs/q/application/controllers/NorthBrook_Skokie_Law_Partner.php",
 		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/User/qq.sublime-snippet",
 		"//Kasper/c/Users/ckotcha/Desktop/27_April_exam/function/screen.scss",
-		"/C/xampp/htdocs/april/sass/_app.scss",
-		"/C/xampp/htdocs/april/sass/_settings.scss",
 		"/C/xampp/htdocs/april/sass/normalize.scss",
 		"/C/xampp/htdocs/april/sass/print.scss",
+		"/C/xampp/htdocs/april/application/modules/About_Us/controllers/About_Us.php",
 		"/C/xampp/htdocs/april/application/modules/Template/views/menu.php",
 		"/C/xampp/htdocs/april/application/modules/Our_Closed_Property/controllers/Our_Closed_Property.php",
 		"/C/xampp/htdocs/april/application/modules/FAQ/controllers/FAQ.php",
@@ -763,7 +811,18 @@
 		"/C/xampp/htdocs/q/application/views/PracticeAreas-view.php",
 		"/C/xampp/htdocs/q/application/views/includes/loginform.php",
 		"/C/xampp/htdocs/q/application/views/partner-view.php",
+<<<<<<< HEAD
 		"/C/xampp/htdocs/q/application/controllers/partner.php"
+=======
+		"/C/xampp/htdocs/q/application/controllers/partner.php",
+		"/C/xampp/htdocs/q/comp/sass/screen.scss",
+		"/C/xampp/htdocs/q/comp/fire_app_log.txt",
+		"/C/xampp/htdocs/q/application/controllers/logout.php",
+		"/C/xampp/htdocs/q/comp/sass/_app.scss",
+		"/C/xampp/htdocs/q/comp/sass/app.scss",
+		"/C/Users/Eatthatfrog/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/q/index.php"
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 	],
 	"find":
 	{
@@ -774,7 +833,6 @@
 		"height": 0.0,
 		"where_history":
 		[
-			"<open folders>,C:\\xampp\\htdocs\\april",
 			"",
 			"C:\\Users\\Eatthatfrog\\AppData\\Roaming\\Sublime Text 2\\Packages",
 			"C:\\Users\\Eatthatfrog\\AppData\\Roaming\\Sublime Text 2\\Packages\\.sublime-completions",
@@ -787,6 +845,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+<<<<<<< HEAD
 			"1em",
 			"304961",
 			"sidebar",
@@ -853,6 +912,16 @@
 			"headerContentTop",
 			"content",
 			"companyNameStyle",
+=======
+			"foundation",
+			"Information_for_Sellers",
+			"headerPhoneNumberStyle",
+			"headerPhoneNumber",
+			"icon-",
+			"Information-For-Sellers",
+			" $system",
+			" $system_folder",
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 			"California",
 			"Shudnow",
 			"Mark",
@@ -914,7 +983,62 @@
 			"();\n",
 			"login_form",
 			"lastName",
+<<<<<<< HEAD
 			"inp1"
+=======
+			"inp1",
+			"//LOCATION:",
+			"$karim",
+			"karim",
+			"->",
+			"function",
+			"row",
+			"id",
+			"();",
+			"();\n",
+			"_filesList",
+			"_usersModel",
+			"email",
+			"/////////////////////////////////////////",
+			"result",
+			"');",
+			"_filePath",
+			"_fileId",
+			"count",
+			");\n",
+			")');",
+			"_unitTest",
+			"id",
+			"_id",
+			"public function get$()\n{\n   return $this->_id;\n}",
+			"	$",
+			"function __construct(argument)",
+			"\"trigger\": \"class",
+			"class",
+			"prev",
+			"*.sublime-completions",
+			"prev",
+			"prev	",
+			"_fileLists",
+			"unction __construct(argument)",
+			"class.sublime-snippet",
+			"pass",
+			"	$this->db->where('email', $emailAddress);\n",
+			"img",
+			"page",
+			"<a",
+			"Contact_Information",
+			"Legal_Partner_Skokie_Northbrook",
+			"Neighborhood_Partner",
+			"Community_Legal_Aid",
+			"Java",
+			"Community",
+			"top",
+			"vintage",
+			"comment",
+			"local:8888",
+			"header"
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -937,6 +1061,7 @@
 	"groups":
 	[
 		{
+<<<<<<< HEAD
 			"selected": 0,
 			"sheets":
 			[
@@ -1271,6 +1396,10 @@
 					},
 					"type": "text"
 				}
+=======
+			"sheets":
+			[
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 			]
 		}
 	],
@@ -1291,18 +1420,24 @@
 				0,
 				1,
 				1
+<<<<<<< HEAD
 			],
 			[
 				1,
 				0,
 				2,
 				1
+=======
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 			]
 		],
 		"cols":
 		[
 			0.0,
+<<<<<<< HEAD
 			0.334254143646,
+=======
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 			1.0
 		],
 		"rows":
@@ -1326,7 +1461,11 @@
 	},
 	"output.sftp":
 	{
+<<<<<<< HEAD
 		"height": 144.0
+=======
+		"height": 145.0
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 	},
 	"output.unsaved_changes":
 	{
@@ -1347,6 +1486,7 @@
 		"selected_items":
 		[
 			[
+<<<<<<< HEAD
 				"faq",
 				"application/modules/FAQ/views/vw-FAQ.php"
 			],
@@ -1431,8 +1571,22 @@
 				"application/modules/About_Us/views/vw-About_Us.php"
 			],
 			[
+=======
+				"",
+				".htaccess"
+			],
+			[
+				"home",
+				"system/helpers/form_helper.php"
+			],
+			[
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 				"conta",
 				"application/modules/Contact_Us/controllers/Contact_Us.php"
+			],
+			[
+				"scr",
+				"sass/screen.scss"
 			],
 			[
 				"vw-about_us.php",
@@ -1481,10 +1635,6 @@
 			[
 				"contact",
 				"application/views/Contact-view.php"
-			],
-			[
-				"home",
-				"application/views/Home-view.php"
 			],
 			[
 				"admin",
@@ -1583,6 +1733,10 @@
 				"application/views/Admin-view.php"
 			],
 			[
+				"screen",
+				"comp/sass/screen.scss"
+			],
+			[
 				"unit",
 				"application/controllers/SUnitTest.php"
 			],
@@ -1677,6 +1831,10 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
+<<<<<<< HEAD
 	"side_bar_width": 472.0,
+=======
+	"side_bar_width": 363.0,
+>>>>>>> ba9be3d960a992ef40c4777ef0edeed57110ab5d
 	"status_bar_visible": true
 }
