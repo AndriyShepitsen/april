@@ -5905,7 +5905,7 @@ body {
   color: #333;
   background-color: #d5e0ea;
   font: 14px "Trebuchet MS", Arial, Helvetica, sans-serif;
-  background: url('../images/map2.jpg?1367519108');
+  background: url('../images/map2.jpg?1367525284');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -5969,57 +5969,21 @@ body {
   text-shadow: #FFF 1px 1px 0px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003168}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003165}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003165}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003165}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #headerPicture {
   float: right;
   width: 435px;
   margin-top: 5px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003176}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003173}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003173}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003173}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #headerContentBottom .icon {
   width: 24px;
   float: right;
   margin-left: 10px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003184}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003181}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003181}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003181}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #headerHomeImg, #headerLetterImg {
   float: left;
   width: 24px;
@@ -6027,26 +5991,14 @@ body {
   display: block;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003190}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003187}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003187}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003187}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #headerLetterImg {
   vertical-align: bottom;
   padding-right: 2px;
   padding-left: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003194}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003197}}
 #headerPhoneNumber {
   float: left;
   width: 575px;
@@ -6061,19 +6013,7 @@ body {
   text-shadow: #4887b9 1px 1px 0px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003201}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003198}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003198}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003198}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #headerPhoneImg {
   float: left;
   width: 24px;
@@ -6082,22 +6022,10 @@ body {
   padding-top: 5px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003211}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003208}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003208}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003208}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .icon-phone {
   float: left;
-  background: url('../images/icon-s15acc932ca.png?1367512575');
+  background: url('../images/icon-s15acc932ca.png?1367525893');
   float: left;
   width: 575px;
   margin-left: 15px;
@@ -6115,19 +6043,7 @@ body {
 }
 
 /*=contentWrapper starts here*/
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003222}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003219}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003219}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003219}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #contentWrapper {
   width: 100%;
   overflow: auto;
@@ -6137,19 +6053,7 @@ body {
 }
 
 /*=sideBar starts here*/
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003230}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003227}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003227}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003227}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #sideBar {
   float: left;
   width: 200px;
@@ -6157,54 +6061,18 @@ body {
   padding-top: 62px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003237}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003234}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003234}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003234}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .currentMenuElement {
   color: red;
 }
 
 /*=content starts here*/
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003242}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003239}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003239}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003239}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #callUsHome {
   font-weight: bold;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003246}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003243}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003243}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003243}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #content {
   float: left;
   width: 755px;
@@ -6221,9 +6089,6 @@ body {
   color: #222222;
   min-height: 940px;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003250}}
 #content .disc {
   margin-left: 25px;
@@ -6237,91 +6102,18 @@ body {
   margin-left: 25px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003260}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003247}}
-#content .disc {
-  margin-left: 25px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003251}}
-#content .shortSaleVSForeclosure {
-  margin-left: 25px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003255}}
-#content ol {
-  margin-left: 25px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003257}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #content ol .square {
   margin-left: 25px;
 }
 
 /*==========  =Short_Sale_Chicago  ==========*/
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003269}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003266}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003247}}
-#content .disc {
-  margin-left: 25px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003251}}
-#content .shortSaleVSForeclosure {
-  margin-left: 25px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003255}}
-#content ol {
-  margin-left: 25px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003257}}
-#content ol .square {
-  margin-left: 25px;
-}
-
-/*==========  =Short_Sale_Chicago  ==========*/
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003266}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003247}}
-#content .disc {
-  margin-left: 25px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003251}}
-#content .shortSaleVSForeclosure {
-  margin-left: 25px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003255}}
-#content ol {
-  margin-left: 25px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003257}}
-#content ol .square {
-  margin-left: 25px;
-}
-
-/*==========  =Short_Sale_Chicago  ==========*/
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003266}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #shortSaleRealtors {
   line-height: 2em;
   text-align: center;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003274}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003271}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003271}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003271}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #areasServed {
   font-size: 12px;
   text-align: justify;
@@ -6354,54 +6146,18 @@ body {
   line-height: 1.4;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003281}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003278}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003278}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003278}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .welcome {
   text-align: center;
   font-size: 20px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003286}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003283}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003283}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003283}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .homePageText {
   font-family: 'Verdana', serif;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003290}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003287}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003287}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003287}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .avoidForeclosure {
   font-family: 'Playfair Display SC', serif;
   line-height: 2em;
@@ -6410,19 +6166,7 @@ body {
   word-spacing: 3px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003299}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003296}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003296}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003296}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .callUsHome {
   border-style: solid;
   border-width: 1px;
@@ -6441,19 +6185,7 @@ body {
   word-spacing: 4px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003309}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003306}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003306}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003306}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .usBanks {
   width: 407px;
   margin: 0 auto;
@@ -6461,19 +6193,7 @@ body {
 
 /*==========  vw-Debt_Relief_Act_2007 starts here  ==========*/
 /*=footer starts here*/
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003318}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003315}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003315}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003315}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #footer {
   width: 100%;
   background-color: #D5E0EA;
@@ -6481,19 +6201,7 @@ body {
   padding-bottom: 10px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003325}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003322}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003322}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003322}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #footerContent {
   width: 960px;
   margin: 0em auto 0px;
@@ -6503,38 +6211,14 @@ body {
   border: 4px solid #A1BAD0;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003333}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003330}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003330}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003330}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #footerContentTop {
   width: 100%;
   overflow: auto;
   padding-bottom: 10px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003338}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003335}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003335}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003335}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #footerContentBottom {
   width: 100%;
   overflow: auto;
@@ -6542,37 +6226,13 @@ body {
   border-top: 1px solid #a1bad0;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003345}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003342}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003342}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003342}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #connectWithUs {
   float: left;
   width: 180px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003349}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003346}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003346}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003346}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #footerAddress {
   text-align: center;
   width: 150px;
@@ -6584,19 +6244,7 @@ body {
   padding-top: 5px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003359}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003356}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003356}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003356}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #footerPhoneNumbers {
   text-align: center;
   width: 180px;
@@ -6609,37 +6257,13 @@ body {
   padding-top: 5px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003370}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003367}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003367}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003367}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #footerLogo {
   float: left;
   width: 150px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003374}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003371}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003371}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003371}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #footerCompanyName {
   float: left;
   width: 250px;
@@ -6650,19 +6274,7 @@ body {
   text-shadow: #FFF 1px 1px 0px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003383}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003380}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003380}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003380}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #footerRights {
   float: right;
   width: 180px;
@@ -6674,19 +6286,7 @@ body {
 }
 
 /*=sideBar*/
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003398}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003395}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003395}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003395}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 #sideBar {
   width: 200px;
   float: left;
@@ -6695,19 +6295,7 @@ body {
   padding: 5px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003405}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003402}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003402}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003402}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .firstLevel {
   border-style: solid;
   border-width: 1px;
@@ -6769,19 +6357,7 @@ body {
   color: white;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003409}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003406}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003406}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003406}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .secondLevel {
   border-style: solid;
   border-width: 1px;
@@ -6845,38 +6421,14 @@ body {
 }
 
 /*=contact-us-starts-here*/
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003416}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003413}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003413}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003413}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .error {
   color: red;
   font-weight: bold;
   margin-left: 20px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003423}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003420}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003420}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003420}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .thankYouMessage {
   font-size: 1.3em;
   line-height: 1.2em;
@@ -6884,19 +6436,7 @@ body {
   height: 500px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003430}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003427}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003427}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003427}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .contactUsContent {
   float: left;
   width: 755px;
@@ -6909,43 +6449,16 @@ body {
   font-family: 'Sanchez', serif;
   color: #222222;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003442}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003439}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003439}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003439}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .contactUsContent textarea {
   height: 300px;
   font-size: 1em;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003446}}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003443}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003443}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003443}}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .contactUsContent #submit {
   font-size: 1em;
   margin-left: 14px;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003450}}
 .contactUsContent input {
   margin-bottom: 20px;
@@ -6955,31 +6468,6 @@ body {
   font-size: 1em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003456}}
-=======
-=======
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003447}}
-.contactUsContent input {
-  margin-bottom: 20px;
-}
-=======
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003447}}
-.contactUsContent input {
-  margin-bottom: 20px;
-}
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003450}}
-.contactUsContent label {
-  font-size: 1em;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/xampp\/htdocs\/april\/sass\/screen\.scss}line{font-family:\00003453}}
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
-=======
->>>>>>> 9349114f8a83bd6913eb8adcadb01fdc1e0d56bb
 .contactUsContent fieldset {
   font-size: 16px;
 }
