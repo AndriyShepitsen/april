@@ -2,7 +2,7 @@
 -->
 
   <div id="content">
-<h2>Forecloser Facts</h2>
+<h1>Forecloser Facts</h1>
 <hr/> 
 <p>Foreclosure is a specific legal process in which a lender attempts to recover the balance of a loan from a borrower who has stopped making payments to the lender by forcing the sale of the asset used as the collateral for the loan. Formally, a mortgage lender (mortgagee), or other lien holder, obtains a termination of a mortgage borrower (mortgagor)'s equitable right of redemption, either by court order or by operation of law (after following a specific statutory procedure).</p>
 

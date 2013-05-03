@@ -2,7 +2,7 @@
 -->
 
   <div id="content">
-<h2>Seller Benefits</h2> 
+<h1>Seller Benefits</h1> 
 <hr/>
 <ol class="shortSaleVSForeclosure">
 <li><strong>Closing Rate</strong> - If you are in a position to need a Short Sale, it MUST get approved by the bank.

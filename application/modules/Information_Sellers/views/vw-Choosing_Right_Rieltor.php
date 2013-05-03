@@ -1,12 +1,12 @@
-<!-- //LOCATION: april/Information-For-Sellers/Choosing-Right-Realtor
+<!-- //LOCATION: april/Information-Sellers/Choosing-Right-Realtor
 -->
 
   <div id="content">
-<h2>Choosing Right Realtor</h2> 
+<h1>Choosing Right Realtor</h1> 
 <hr/>
-    <p>For most people, their home is the biggest investment of their life. Whether you're buying or selling a home, you want to be sure you're maximizing that investment. Choosing the right Realtor can make a big difference in how fast you find or sell a house, the price you pay or receive and the smooth completion of the transaction.</p>
+    <p>For most people, their home is the biggest investment of their life. Whether you're buying or selling a home, you want to be sure you're maximizing that investment. Choosing the right Realtor can make a big difference in how fast you find or sell a house, the price you pay or receive and the smooth completion of the transaction.
 
-<p>You'll need to do some research to find the one that's right for you. It's not hard, but it will take a little time; however, finding the right match will pay off in the long run. Here are some tips from AHA:</p>
+You'll need to do some research to find the one that's right for you. It's not hard, but it will take a little time; however, finding the right match will pay off in the long run. Here are some tips from AHA:</p>
 
     <dl>
     	<dt>Go with a Pro</dt>

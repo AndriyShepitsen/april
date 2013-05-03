@@ -3,7 +3,7 @@
 
  <div id="content">
 
-<h2>Our Partners</h2> 
+<h1>Our Partners</h1> 
 <hr/>
    <h4 > We have worked with many banks, including:</h4>
 

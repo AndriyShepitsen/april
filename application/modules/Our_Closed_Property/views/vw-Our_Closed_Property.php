@@ -3,7 +3,7 @@
 
 
   <div id="content">
-<h2>Our Sold Property</h2> 
+<h1>Our Sold Property</h1> 
     <p>1911 to 1917 W. Howard St. & 1919 to 1923 W. Howard St. Evanston. 
     11 unit and 14 unit apartment buildings Sold for $1,500,000.</p>
 

@@ -36,10 +36,14 @@ $leftColumnWidth:222px;
 $companyNameWidth:288px;
 $colorBody:#D5E0EA;
 $colorWrapper:#A1BAD0;
+$colorFont:#333333;
+$colorFooterFont:#304961;
 $companyNameColor: #0055A5;
 $primary-color: #396c95;
 $bg:lighten(#396c95, 10%);
 $colorRed: #E51937;
+$contentBackgroundCollor: #FFF;
+$main-font-size:  1em;
 /*==========  Functions  ==========*/
 
 @function contentColumnWidth($siteWigth, $leftColumnWidth) {
@@ -47,20 +51,25 @@ $colorRed: #E51937;
 }
 /*==========  Mixins  ==========*/
 
+@mixin basicBoxStyle {
+	width: 100%;
+	overflow: auto;
+	position: relative;
+}
+
 
 @mixin companyNameStyle ($anyColor){
 	font-family: 'Noto Serif', serif;
-// 'Special Elite', cursive;
-float: left;
-width: $companyNameWidth;
-font-size: 45px;
-letter-spacing: 2px;
-color: $anyColor;
-font-weight: bold;
-text-align: right;
-padding-right: 40px;
-line-height: 1.2em;
-text-shadow: #FFF 1px 1px 0px;
+	float: left;
+	width: $companyNameWidth;
+	font-size: 45px;
+	letter-spacing: 2px;
+	color: $anyColor;
+	font-weight: bold;
+	text-align: right;
+	padding-right: 40px;
+	line-height: 1.2em;
+	text-shadow: $contentBackgroundCollor 1px 1px 0px;
 }
 
 @mixin headerPhoneNumberStyle{
@@ -68,12 +77,11 @@ text-shadow: #FFF 1px 1px 0px;
 	width: 575px;
 	margin-left: 15px;
 	position:relative;
-	top:-10px;
+	top:-5px;
 	font-size:2.1em; 
 	font-weight: bold;
 	letter-spacing: 2px;
-	letter-spacing: 2px;
-	color: #FFF;
+	color: $contentBackgroundCollor;
 	text-shadow: lighten($primary-color, 10%) 1px 1px 0px;
 }
 
@@ -99,7 +107,7 @@ text-shadow: #FFF 1px 1px 0px;
 	padding-left: 10px;
 	font-size: 14px;
 }
-@mixin contentFormatting($anyFontFamily:"Helvetica Neue,​ Arial,​ sans-serif", $anyBackgroundColor:#FFFFFF) {
+@mixin contentFormatting($anyFontFamily:"Helvetica Neue,​ Arial,​ sans-serif", $anyBackgroundColor:$contentBackgroundCollor) {
 	float: left;
 	width: 755px;
 	background-color: $anyBackgroundColor;
@@ -111,36 +119,53 @@ text-shadow: #FFF 1px 1px 0px;
 	font-family: $anyFontFamily;
 	font-size: 16px;
 	font-weight: normal;
-	line-height:1.7;
-	color: #222222;
+	line-height: 2em;
+	color: $colorFont;
 	min-height:940px;
-
 }
 
+@mixin sideBarFormatting {
+	float: left;
+	width: 200px;
+	position: relative;
+	padding: 5px;
+	margin-top: 62px;
+}
+
+@mixin footerAddressFormat{
+	text-align: center;	
+	line-height: normal;
+	font-weight: bold;
+	font-size: 1.1em;
+	float: right;
+	color: $colorFooterFont;
+	padding-top: 5px;
+}
 
 /*=outerWharrer starts here*/
 
 body{
-	color: #333;
+	color: $colorFont;
 	background-color: $colorBody;
 	font: 14px  "Trebuchet MS", Arial, Helvetica, sans-serif;
-	@include background(image-url("map2.jpg"));
+	@include background(image-url("map2_20.png"));
 	@include background-size(cover);
 
 }
+
 #outerWrapper {
 	@include box-sizing(content-box);
 	margin: 0px auto;
 	width: $siteWigth;
 	background-color: $colorWrapper;
-	margin-bottom: -36px;
+	margin-bottom: -40px;
 }
 
 /*=header starts here*/
 #header {
-	overflow: auto;
-	position: relative;
+	@include basicBoxStyle;;
 }
+
 #headerContent{
 	overflow: auto;
 	width: contentColumnWidth;
@@ -154,161 +179,182 @@ body{
 	display: block;
 	margin-top: 5px;
 }
+
 #headerContentTop{
-	overflow: auto;
-	width: 100%;
-	position: relative;
+	@extend #header;
+
+	#companyName{
+		@include companyNameStyle ($companyNameColor);
+	}
+	
+	#headerPicture{
+		float: right;
+		width: 435px;
+		margin-top: 5px;
+	}
 
 }
-#companyName{
-	@include companyNameStyle ($companyNameColor);
-}
 
 
-#headerPicture{
-	float: right;
-	width: 435px;
-	margin-top: 5px;
-	// box-shadow: black 1px 1px 0px;
-}
 #headerContentBottom{
-	@extend headerContentTop;
+	@extend #header;
 	.icon{
 		width:24px;
 		float:right;
 		margin-left:10px;
 	}
+	.icon-phone {
+		float: left;
+		background: image-url('icon-s15acc932ca.png');
+
+		@include headerPhoneNumberStyle;
+		width: 24px;
+		height: 24px;
+		margin-top: 8px;
+	}
+
+	#headerPhoneNumber {
+		@include headerPhoneNumberStyle;
+	}
+
+	#headerHomeImg {
+		float: left;
+		width: 24px;
+		padding-top: 5px;
+		display: block;
+	}
+	#headerLetterImg {
+		@extend #headerHomeImg;
+
+		vertical-align: bottom;
+		padding-right: 2px;
+		padding-left: 10px;
+	}
 }
 
 
-#headerHomeImg {
-	float: left;
-	width: 24px;
-	padding-top: 5px;
-	display: block;
-}
-#headerLetterImg {
-	@extend #headerHomeImg;
-
-	vertical-align: bottom;
-	padding-right: 2px;
-	padding-left: 10px;
-}
-#headerPhoneNumber {
-	@include headerPhoneNumberStyle;
-}
-
-#headerPhoneImg {
-	float: left;
-	width: 24px;
-	padding-left: 40px;
-	display: block;
-	padding-top: 5px;
-}
-
-
-
-.icon-phone {
-	float: left;
-	background: image-url('icon-s15acc932ca.png');
-	
-	@include headerPhoneNumberStyle;
-	width: 24px;
-	height: 24px;
-	margin-top: 8px;
-
-}
-/*=contentWrapper starts here*/
-#contentWrapper {
-	width: 100%;
-	overflow: auto;
-	position: relative;
-	top: -40px;
-	padding-right:5px;
-}
 /*=sideBar starts here*/
+
 #sideBar {
-	float: left;
-	width: 200px;
-	position: relative;
-	padding-top: 62px;
+	@include sideBarFormatting;
 }
+
+
+.firstLevel {
+	@include firstLevelButton($primary-color);
+}
+
+.secondLevel {
+	@include secondLevelButton($bg);
+}
+
 
 .currentMenuElement{
 	color:red;
 }
 
 /*=content starts here*/
-#callUsHome{
-	font-weight: bold;
-}
 
-#content {
-	@include contentFormatting;
+#contentWrapper {
+	@include basicBoxStyle;
+	top: -40px;
+	padding-right:5px;
 
+	#content {
+		@include contentFormatting;
+		h1{
+			font-size: 2.1em;
+		}
 
-	.disc{
-		margin-left: 25px;
-
-	}
-	.shortSaleVSForeclosure{
-		margin-left: 25px;
-
-	}
-	ol{
-		margin-left: 25px;
-		.square{
-
+		.disc{
 			margin-left: 25px;
+
+		}
+		.shortSaleVSForeclosure{
+			margin-left: 25px;
+
+		}
+		ol{
+			margin-left: 25px;
+			.square{
+
+				margin-left: 25px;
+			}
 		}
 	}
 }
+
+
+
 /*==========  =Short_Sale_Chicago  ==========*/
 
 
 #shortSaleRealtors{
-	line-height: 2em;
+	display:block;
+	line-height: 30px;
 	text-align: center;
-}
-
-#areasServed {
-	font-size: 12px;
-	// line-height: 2em;
-	text-align: justify;
-	@include panel(lighten(#D5E0EA, 5%) )
+	word-spacing: 3px;
 }
 
 .welcome{
-		text-align: center;
-		font-size: 20px;
+	text-align: center;
+	font-size: 20px;
+}
 
-}
 .homePageText{
-font-family: 'Verdana', serif;
+	font-family: 'Verdana', serif;
+	font-weight: bold;	
+	font-size: 16px;
+	margin-bottom: 20px;
 }
+
+.weCanHelp{
+	line-height: 30px;
+	@include label;
+	font-size: 24px;
+	margin-bottom: 20px;
+	
+}
+.label{
+	line-height: 30px;
+	font-size: 24px;	
+	margin-bottom: 0px;
+}
+#areasServed {
+	font-size: 12px;
+	line-height: 30px;
+	text-align: justify;
+	@include panel(lighten($colorBody, 5%) )
+}
+
 
 .avoidForeclosure{
 	font-family: 'Playfair Display SC', serif;
-	// text-align: center;
+	display:block;
 	line-height: 2em;
 	font-size: 20px;
 	text-transform: uppercase;
-	word-spacing: 3px;
+	word-spacing: 4px;
+	text-align: center;
+	margin-bottom: 20px;
 
 }
 .callUsHome {
-  @include alert-base;
-  @include alert-style(lighten($primary-color, 40%));
-  text-align:center;
-  font-size: 25px;
-  color: lighten(#C60F13, 10%);
-  word-spacing: 4px;
-  // text-shadow: lighten(#C60F13, 20%) 1px 1px 0px;
+	@include alert-base;
+	@include alert-style(lighten($primary-color, 40%));
+	text-align:center;
+	font-size: 25px;
+	color: lighten(#C60F13, 10%);
+	word-spacing: 4px;
+	font-weight: bold;
 
 }
 .usBanks{
 	width:407px;
 	margin: 0 auto;
+	h3{
+		text-align: center;
+	}
 }
 
 /*==========  vw-Debt_Relief_Act_2007 starts here  ==========*/
@@ -317,7 +363,7 @@ font-family: 'Verdana', serif;
 /*=footer starts here*/
 #footer {
 	width: 100%;
-	background-color: #D5E0EA;
+	background-color: $colorBody;
 	padding-top: 10px;
 	padding-bottom: 10px;
 
@@ -327,45 +373,34 @@ font-family: 'Verdana', serif;
 	margin: 0em auto 0px;
 	padding: 10px 20px;
 	overflow: auto;
-	background-color: #D5E0EA;
-	border: 4px solid #A1BAD0;
+	background-color: $colorBody;
+	border: 4px solid $colorWrapper;
 }
 #footerContentTop{
-	width: 100%;
-	overflow: auto;
+	@include basicBoxStyle;
 	padding-bottom: 10px;
 }
 #footerContentBottom{
-	width: 100%;
-	overflow: auto;
+	@include basicBoxStyle;
 	padding-top: 10px;
-	border-top: 1px solid#A1BAD0;
+	border-top: 1px solid $colorWrapper;
 }
 
 #connectWithUs {
 	float: left;
 	width: 180px;
 }
+
+
 #footerAddress {
-	text-align: center;
+	@include footerAddressFormat;
 	width: 150px;
-	line-height: normal;
-	font-weight: bold;
-	font-size: 1.1em;
-	float: right;
-	color: #304961;
-	padding-top: 5px;
+	margin-left: 30px;
 }
 #footerPhoneNumbers {
-	text-align: center;
+	@include footerAddressFormat;
 	width: 180px;
-	line-height: normal;
-	font-weight: bold;
-	font-size: 1.1em;
-	float: left;
-	margin-left: 300px;
-	color: #304961;
-	padding-top: 5px;
+
 }
 #footerLogo{
 	float:left;
@@ -377,8 +412,8 @@ font-family: 'Verdana', serif;
 	padding-left: 20px;
 	font: 24px 'Special Elite', cursive;
 	padding-top: 10px;
-	color: #0055A5;
-	text-shadow: #FFF 1px 1px 0px;
+	color: $companyNameColor;
+	text-shadow: $contentBackgroundCollor 1px 1px 0px;
 }
 #footerRights{
 	float: right;
@@ -387,31 +422,13 @@ font-family: 'Verdana', serif;
 	padding-left: 10px;
 	text-align: right;
 	font: italic bold 14px "Times New Roman", Times, serif;
-	color: #304961;
+	color: $colorFooterFont;
 }
 
 
-/*=sideBar*/
-
-
-
-#sideBar{
-	width:200px;
-	float: left;
-	position: relative;
-	margin-top: 62px;
-	padding: 5px;
-}
-.firstLevel {
-	@include firstLevelButton($primary-color);
-}
-
-.secondLevel {
-	@include secondLevelButton($bg);
-}
 
 /*=contact-us-starts-here*/
-$main-font-size:  1em;
+
 
 .error {
 	color:red;
@@ -430,14 +447,14 @@ $main-font-size:  1em;
 .contactUsContent {
 	float: left;
 	width: 755px;
-	background-color: #FFFFFF;
+	background-color: $contentBackgroundCollor;
 	border-top-left-radius: 70px;
 	moz-border-top-left-radius: 70px;
 	webkit-border-top-left-radius: 70px;
 	padding: 40px 20px 100px 25px;
 	position: relative;
 	font-family: 'Sanchez', serif;
-	color: #222222;
+	color: $colorFont;
 
 	textarea{
 		height: 300px;

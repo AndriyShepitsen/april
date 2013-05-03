@@ -1,7 +1,7 @@
 <!-- //LOCATION: april/Foreclosure/Foreclosure-Process
 -->
   <div id="content">
-<h2>Forecloser Process</h2> 
+<h1>Forecloser Process</h1> 
 <hr/>
 <p>The process of foreclosure can be rapid or lengthy and varies from state to state. Other options such as refinancing, a short sale, alternate financing, temporary arrangements with the lender, or even bankruptcy may present homeowners with ways to avoid foreclosure. Websites which can connect individual borrowers and homeowners to lenders are increasingly offered as mechanisms to bypass traditional lenders while meeting payment obligations for mortgage providers. Although there are slight differences between the states, the foreclosure process generally follows a timeline beginning with initial missed payments, moving to a sale being scheduled and finally a redemption period (if available).</p>
 <h4 class="subheader">Strict foreclosure/judicial foreclosure</h4>

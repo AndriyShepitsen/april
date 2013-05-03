@@ -2,12 +2,12 @@
 -->
 
   <div id="content">
-<h2>Frequently Asked Questions</h2> 
+<h1>Frequently Asked Questions</h1> 
 <hr/>
 <dl>
 <dt>What is a short sale?</dt>
-A short sale in real estate occurs when the outstanding loans against a property are greater than what the property can be sold for.
-
+<dd>A short sale in real estate occurs when the outstanding loans against a property are greater than what the property can be sold for.
+</dd>
 <dt>What if my home is worth more than my loans, but I could not pay the closing costs?</dt>
 <dd>That can still be a short sale.</dd>
 

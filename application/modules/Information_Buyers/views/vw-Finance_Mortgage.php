@@ -1,31 +1,31 @@
-<!-- //LOCATION: april/Information-For-Buyers/Finance-Mortgage
+<!-- //LOCATION: april/Information-Buyers/Finance-Mortgage
 -->
  <div id="content">
-<h2>Finance / Mortgage</h2>
+<h1>Finance / Mortgage</h1>
 <hr/>
-<p>For most people, buying a house involves a double financial whammy.</p>
+<p>For most people, buying a house involves a double financial whammy.
 
-<p>First you have to assemble a pile of cash for the down payment and closing costs. Then you must convince a bank to lend you an even more staggering sum - generally 80% or more of the purchase price.</p>
+First you have to assemble a pile of cash for the down payment and closing costs. Then you must convince a bank to lend you an even more staggering sum - generally 80% or more of the purchase price.
 
-<p>So your first step, even before you start the actual hunt for a property, should be to get your financial house in order.</p>
+So your first step, even before you start the actual hunt for a property, should be to get your financial house in order.</p>
 <h4>Start with your credit</h4>
 
-<p>Credit reports are kept by the three major credit agencies, Experian, Equifax, and TransUnion. Among other things, they show whether you are habitually late with payments and whether you have run into serious credit problems in the past.</p>
+<p>Credit reports are kept by the three major credit agencies, Experian, Equifax, and TransUnion. Among other things, they show whether you are habitually late with payments and whether you have run into serious credit problems in the past.
 
-<p>A credit score is a number calculated from a formula created by Fair Isaac based on the information in your credit report. You have three different credit scores, one for each of your credit reports.</p>
+A credit score is a number calculated from a formula created by Fair Isaac based on the information in your credit report. You have three different credit scores, one for each of your credit reports.</p>
 
 <p>A low credit score may hurt your chances for getting the best interest rate, or getting financing at all. So get a copy of your reports and know your credit scores. Try Fair Isaac'sMyFICO.com for reports and scores from Equifax and TransUnion. Experian scores and reports can be accessed from experian.com.</p>
 
 <p>Errors are not uncommon. If you find any, you must contact the agencies directly to correct them, which can take two or three months to resolve. If the report is accurate but shows past problems, be prepared to explain them to a loan officer.</p>
 <h4>Know what you can afford</h4>
 
-<p>Next, you need to determine how much house you can afford. You can start with one of the Web's many calculators. For a more accurate figure, ask to be pre-approved by a lender, who will look at your income, debt and credit to determine the kind of loan that's in your league.</p>
+<p>Next, you need to determine how much house you can afford. You can start with one of the Web's many calculators. For a more accurate figure, ask to be pre-approved by a lender, who will look at your income, debt and credit to determine the kind of loan that's in your league.
 
-<p>The rule of thumb here is to aim for a home that costs about two-and-a-half times your gross annual salary. If you have significant credit card debt or other financial obligations like alimony or even an expensive hobby, then you may need to set your sights lower.</p>
+The rule of thumb here is to aim for a home that costs about two-and-a-half times your gross annual salary. If you have significant credit card debt or other financial obligations like alimony or even an expensive hobby, then you may need to set your sights lower.
 
-<p>Another rule of thumb: All your monthly home payments should not exceed 36% of your gross monthly income.</p>
+Another rule of thumb: All your monthly home payments should not exceed 36% of your gross monthly income.
 
-<p>The size of your down payment will also determine how much you can afford.</p>
+The size of your down payment will also determine how much you can afford.</p>
 <h4>Line up cash</h4>
 
 <p>If you haven't already, you'll need to come up with cash for your down payment and closing costs. Lenders like to see 20% of the home's price as a down payment. If you can put down more than that, the lender may be willing to approve a larger loan. If you have less, you'll need to find loans that can accommodate you.</p>
@@ -38,9 +38,9 @@
 
 <p>If your available cash doesn't cover your needs, you have several options. First-time homebuyers can withdraw up to $10,000 without penalty from an Individual Retirement Account, if you have one, though you must pay taxes on the amount. You can also receive a cash gift of up to $13,000 a year (the limit for 2009) from each of your parents without triggering a gift tax.</p>
 
-<p>Gift taxes are paid by the donor, not the recipient. (In fact, if your and your spouse's parents are both well-heeled, they can give you a total of $104,000 in one year - $13,000 from each of the four parents to each of you.)</p>
+<p>Gift taxes are paid by the donor, not the recipient. (In fact, if your and your spouse's parents are both well-heeled, they can give you a total of $104,000 in one year - $13,000 from each of the four parents to each of you).
 
-<p>Check on whether your employer can help; some big companies will chip in on the down payment or help you get a low-interest loan from selected lenders. You can also tap a 401(k) or similar retirement plan for a loan from yourself.</p>
+Check on whether your employer can help; some big companies will chip in on the down payment or help you get a low-interest loan from selected lenders. You can also tap a 401(k) or similar retirement plan for a loan from yourself.</p>
     </div>
 
     <script type="text/javascript">
