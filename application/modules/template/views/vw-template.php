@@ -94,7 +94,7 @@ var menuSelect = function (childNum) {
             </div><!--footerContentTop-->
             
             <div id="footerContentBottom">
-          <div id="footerLogo"><img src="_img/ReMax_footer_logo.png"  alt="Remax Short Sale Chicago Logo"></div>
+          <div id="footerLogo"><img src="<?php echo base_url();?>_img/ReMax_footer_logo.png"  alt="Remax Short Sale Chicago Logo"></div>
           <div id="footerCompanyName">Short Sale Chicago</div>
           
           <div id="footerRights">&copy; Short Sale Chicago 2013</div>

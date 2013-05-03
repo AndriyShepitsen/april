@@ -4,9 +4,9 @@
   <div id="content">
 <h1>Short Sale Process</h1> 
     <hr/>
-<p>Most creditors require the borrower to prove they have an economic or financial hardship preventing them from being able to pay the deficiency.</p>
+<p>Most creditors require the borrower to prove they have an economic or financial hardship preventing them from being able to pay the deficiency.
 
-<p>Creditors holding liens against real estate can include primary mortgages, junior lien holders - such as second mortgages, home equity lines of credit (HELOC) lenders, home owners association HOA (special assessment liens) - all of whom will need to approve individual applications for a short sale, should they be asked to take less than what is owed.</p>
+Creditors holding liens against real estate can include primary mortgages, junior lien holders - such as second mortgages, home equity lines of credit (HELOC) lenders, home owners association HOA (special assessment liens) - all of whom will need to approve individual applications for a short sale, should they be asked to take less than what is owed.</p>
 
 <p>Most large creditors have special loss mitigation departments that evaluate borrowers' applications for short sale approval. Often creditors use pre-determined criteria for approving the borrowers and the terms of the sale of the properties. Part of this process typically includes the creditor(s) determining the current market value of the real estate by obtaining an independent evaluation of the property with an appraisal, a Broker's Price Opinion, or a broker opinion of value (BOV). One of the most important aspects for the borrower in this process is putting together a proper real estate short-sale package, including hardship letter explaining why a short sale is needed.</p>
 

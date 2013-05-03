@@ -36,7 +36,7 @@ $leftColumnWidth:222px;
 $companyNameWidth:288px;
 $colorBody:#D5E0EA;
 $colorWrapper:#A1BAD0;
-$colorFont:#333333;
+$colorFont:#393939;
 $colorFooterFont:#304961;
 $companyNameColor: #0055A5;
 $primary-color: #396c95;
@@ -117,7 +117,7 @@ $main-font-size:  1em;
 	padding: 20px 20px 0px 25px;
 	position: relative;
 	font-family: $anyFontFamily;
-	font-size: 16px;
+	font-size: 17px;
 	font-weight: normal;
 	line-height: 2em;
 	color: $colorFont;
@@ -288,7 +288,6 @@ body{
 
 .aboutUsLable{
 	@include label;
-	
 	width:100%;
 	h2{
 		font-size: 15px;
@@ -380,6 +379,7 @@ body{
 	margin: 0 auto;
 	h3{
 		text-align: center;
+		color: $primary-color;
 	}
 }
 
