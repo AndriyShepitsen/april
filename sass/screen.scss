@@ -34,17 +34,20 @@
 $siteWigth:960px;
 $leftColumnWidth:222px;
 $companyNameWidth:288px;
+$main-font-size:  1em;
+
 $colorBody:#D5E0EA;
 $colorWrapper:#A1BAD0;
+$contentBackgroundCollor: #FFF;
+$primary-color: #396c95;
+$bg:lighten(#396c95, 10%);
+$ColorTextLabel: #464646;
 $colorFont:#393939;
 $colorFooterFont:#304961;
 $companyNameColor: #0055A5;
-$primary-color: #396c95;
-$bg:lighten(#396c95, 10%);
 $colorRed: #E51937;
-$contentBackgroundCollor: #FFF;
-$main-font-size:  1em;
-$ColorTextLabel: #464646;
+$colorGreen: #008040;
+
 /*==========  Functions  ==========*/
 
 @function contentColumnWidth($siteWigth, $leftColumnWidth) {
@@ -251,7 +254,7 @@ body{
 
 
 .currentMenuElement{
-	color:red;
+	color: $colorRed;
 }
 
 /*=content starts here*/
@@ -456,17 +459,11 @@ body{
 	}
 }
 
-
-
-
-
-
-
 /*=contact-us-starts-here*/
 
 
 .error {
-	color:red;
+	color: $colorRed;
 	font-weight: bold;
 	margin-left: 20px;
 
@@ -475,7 +472,7 @@ body{
 .thankYouMessage{
 	font-size: 1.3em;
 	line-height: 1.2em;
-	color: green;
+	color: $colorGreen;
 	height: 500px;
 }
 
