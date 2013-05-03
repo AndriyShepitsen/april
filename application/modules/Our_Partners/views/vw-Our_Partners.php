@@ -9,7 +9,6 @@
    	<h4 > We have worked with many banks, including:</h4>
    
    <h5 class="subheader">AIG</h5>
-   <h5 class="subheader">American National Bank</h5>
    <h5 class="subheader">Bank One</h5>
    <h5 class="subheader">Bank of America / Country Wide</h5>
    <h5 class="subheader">Bayview Loan Servicing</h5>
