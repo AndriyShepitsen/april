@@ -283,6 +283,7 @@ body{
 		}
 	}
 }
+/*==========  =ourPartners  ==========*/
 
 
 
@@ -371,7 +372,9 @@ body{
 #footerContent{
 	width: 960px;
 	margin: 0em auto 0px;
-	padding: 10px 20px;
+	padding-top: 10px;
+	padding-right:20px;
+	padding-left: 20px;
 	overflow: auto;
 	background-color: $colorBody;
 	border: 4px solid $colorWrapper;
@@ -379,51 +382,58 @@ body{
 #footerContentTop{
 	@include basicBoxStyle;
 	padding-bottom: 10px;
+
+	#connectWithUs {
+		float: left;
+		width: 180px;
+
+	}
+	#footerAddress {
+		@include footerAddressFormat;
+		width: 150px;
+		margin-left: 30px;
+	}
+	#footerPhoneNumbers {
+		@include footerAddressFormat;
+		width: 180px;
+
+	}
+
+
 }
 #footerContentBottom{
 	@include basicBoxStyle;
 	padding-top: 10px;
 	border-top: 1px solid $colorWrapper;
+
+	#footerLogo{
+		float:left;
+		width:150px;
+	}
+	#footerCompanyName {
+		float: left;
+		width: 250px;
+		padding-left: 20px;
+		margin-top: 5px;
+		color: $companyNameColor;
+		text-shadow: $contentBackgroundCollor 1px 1px 0px;
+		font: 24px 'Noto Serif', serif;
+		line-height:25px;
+	}
+	#footerRights{
+		float: right;
+		width: 180px;
+		padding-top: 10px;
+		padding-left: 10px;
+		text-align: right;
+		font: italic bold 14px "Times New Roman", Times, serif;
+		color: $colorFooterFont;
+	}
 }
 
-#connectWithUs {
-	float: left;
-	width: 180px;
-}
 
 
-#footerAddress {
-	@include footerAddressFormat;
-	width: 150px;
-	margin-left: 30px;
-}
-#footerPhoneNumbers {
-	@include footerAddressFormat;
-	width: 180px;
 
-}
-#footerLogo{
-	float:left;
-	width:150px;
-}
-#footerCompanyName {
-	float: left;
-	width: 250px;
-	padding-left: 20px;
-	font: 24px 'Special Elite', cursive;
-	padding-top: 10px;
-	color: $companyNameColor;
-	text-shadow: $contentBackgroundCollor 1px 1px 0px;
-}
-#footerRights{
-	float: right;
-	width: 180px;
-	padding-top: 10px;
-	padding-left: 10px;
-	text-align: right;
-	font: italic bold 14px "Times New Roman", Times, serif;
-	color: $colorFooterFont;
-}
 
 
 
