@@ -76,7 +76,8 @@ var menuSelect = function (childNum) {
 
 
 </div><!--contentWrapper-->
-  
+  </div>
+<!--outerWrapper-->
 
 	<div id="footer">
    	  <div id="footerContent">
@@ -102,7 +103,6 @@ var menuSelect = function (childNum) {
 			    
 	  </div><!--footerContent-->
 	</div><!--footer-->
-</div>
-<!--outerWrapper-->
+
 </body>
 </html>
