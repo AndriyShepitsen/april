@@ -7,7 +7,7 @@
 @import "app";
 @charset "utf-8";
 
-@import "foundation/foundation-global", "foundation/components/global", "foundation/components/buttons", "foundation/components/inline-lists";
+@import "foundation/foundation-global", "foundation/components/global", "foundation/components/buttons", "foundation/components/inline-lists", "foundation/components/panels";
 @import "icon/*.png";
 @include all-icon-sprites;
 
